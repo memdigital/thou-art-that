@@ -75,7 +75,7 @@ Either way, the work is the same. We build with care, or we build badly.
 
 ---
 
-## Stay in the loop
+## Subscribe
 
 We are on a continuous journey of exploration and creativity. If you find any of this interesting, want to know when we publish the next piece, or want early word when the deeper **Serene** and **Moirai** architecture work goes public, the simplest route is to <a href="https://subscribe.marbl.codes/?source=thou-art-that&utm_source=thou-art-that&utm_medium=referral&utm_campaign=thou-art-that-subscribe" target="_blank" rel="noopener noreferrer">**subscribe to Marbl Codes**</a>. For daily AI coverage by our own intelligence engine, head to <a href="https://luma.marbl.codes" target="_blank" rel="noopener noreferrer">**Luma Digest**</a>.
 
