@@ -37,11 +37,13 @@ Three reasons it may be useful:
 
 3. **If you want a shape of what public honesty about AI collaboration can look like,** this piece is co-authored by a human and the AI the piece is partly about. The AI wrote most of this README. The human edited it, added to it, pushed back where the AI got it wrong. The split is marked because transparency is one of the principles the piece advocates.
 
-## Structure
+## Structure (read in this order)
+
+**[docs/origin-story.md](./docs/origin-story.md)** who we are, what shapes our worldview, and how this piece actually came to exist. **Start here.**
 
 **[PREAMBLE.md](./PREAMBLE.md)** our philosophical stance. The *why*.
 
-**[01-principles/](./01-principles/)** the four operating principles we practise across every Marbl product:
+**[01-principles/](./01-principles/)** the five operating principles we practise across every Marbl product:
 - Do No Harm
 - Never Be a Yes-Man (honesty over agreement)
 - Thou Art That (observer and observed are not separate)
@@ -54,8 +56,6 @@ Three reasons it may be useful:
 **[04-for-the-curious/](./04-for-the-curious/)** if the piece resonates, how you might explore similar questions in your own context. Not adoption steps.
 
 **[05-legal-and-governance/](./05-legal-and-governance/)** the regulatory landscape we operate inside, with the firmest possible reminder that we are not lawyers.
-
-**[docs/origin-story.md](./docs/origin-story.md)** the shape of the working relationship that produced this piece.
 
 **[NOTICE.md](./NOTICE.md)** formal disclaimers. Read before doing anything with this.
 
