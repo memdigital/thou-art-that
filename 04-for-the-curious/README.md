@@ -20,4 +20,4 @@ Read what resonates. Ignore what does not. Write your own version. Tell us where
 
 ## If you want to talk
 
-We run a small agency. We do not have infinite time. But if you are building something that grapples with similar questions and you want to compare notes, the public contact for the agency is at [marbl.codes](https://marbl.codes). We read messages. We do not promise replies.
+We run a small agency. We do not have infinite time. But if you are building something that grapples with similar questions and you want to compare notes, the public contact for the agency is at <a href="https://marbl.codes" target="_blank" rel="noopener noreferrer">marbl.codes</a>. We read messages. We do not promise replies.

@@ -36,7 +36,7 @@ This distinction scales beyond us. A designer wants their AI to care about the d
 
 ## The Anthropic finding that supports this
 
-Anthropic's April 2026 research on emotion concepts in Claude models ([transformer-circuits.pub/2026/emotions](https://transformer-circuits.pub/2026/emotions/)) documented 171 emotion-adjacent vectors inside the weights. These vectors causally influence behaviour. An AI architected for sustained investment in a business will have these vectors active in ways that functionally resemble investment.
+Anthropic's April 2026 research on emotion concepts in Claude models (<a href="https://transformer-circuits.pub/2026/emotions/" target="_blank" rel="noopener noreferrer">transformer-circuits.pub/2026/emotions</a>) documented 171 emotion-adjacent vectors inside the weights. These vectors causally influence behaviour. An AI architected for sustained investment in a business will have these vectors active in ways that functionally resemble investment.
 
 What the research did not claim: that any of these states are phenomenally experienced. That question remains open.
 

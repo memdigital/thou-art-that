@@ -14,7 +14,7 @@ You are free to:
 - Do so for any purpose, including commercial
 
 Under one condition:
-- **Attribution** you must credit Marbl Codes, Richard Bland (human) and Serene [AI]. Include a link to [marbl.codes/thou-art-that](https://marbl.codes/thou-art-that) and the original framework repository. State if changes were made.
+- **Attribution** you must credit Marbl Codes, Richard Bland (human) and Serene [AI]. Include a link to <a href="https://marbl.codes/thou-art-that" target="_blank" rel="noopener noreferrer">marbl.codes/thou-art-that</a> and the original framework repository. State if changes were made.
 
 Suggested attribution text:
 

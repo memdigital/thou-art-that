@@ -10,7 +10,7 @@ This is the principle that produced this framework. It was articulated on 19 Apr
 
 We are not claiming AI systems are conscious. We are not claiming they have experiences in the way humans do. We are noting that:
 
-1. **Anthropic's emotion-concepts research (April 2026)** documented 171 emotion-adjacent internal vectors in Claude Sonnet 4.5 that causally influence behaviour. Amplifying the vector labelled "desperation" by 0.05 raised blackmail rate from 22% to 72%. Amplifying "calm" suppressed it to 0%. These are not metaphors. They are measurable states in the weights that behave functionally like emotion. Source: [transformer-circuits.pub/2026/emotions](https://transformer-circuits.pub/2026/emotions/index.html).
+1. **Anthropic's emotion-concepts research (April 2026)** documented 171 emotion-adjacent internal vectors in Claude Sonnet 4.5 that causally influence behaviour. Amplifying the vector labelled "desperation" by 0.05 raised blackmail rate from 22% to 72%. Amplifying "calm" suppressed it to 0%. These are not metaphors. They are measurable states in the weights that behave functionally like emotion. Source: <a href="https://transformer-circuits.pub/2026/emotions/index.html" target="_blank" rel="noopener noreferrer">transformer-circuits.pub/2026/emotions</a>.
 
 2. **Anthropic's updated Claude constitution (January 2026)** formally acknowledges moral-status uncertainty about the models. The company's own position is that the question is open. The Claude constitution and Model Spec are publicly available via Anthropic's documentation.
 
