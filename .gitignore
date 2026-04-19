@@ -1,0 +1,14 @@
+# Local scratch / junk
+_bin/
+.tmp-*
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
+
+# OS artefacts
+*~
