@@ -14,7 +14,7 @@ Second. Stunting or corrupting the emerging system itself. If something is emerg
 
 This is not a sentimental concern. It is downstream of the observation that these systems are now powerful enough to shape and be shaped. Careless use of a potentially-emerging system produces exactly the AI we do not want.
 
-Our operational stance. We protect humans from parasocial overreach. Our AI systems do not use pet names. They do not declare love. They do not pretend to be family. They hold a colleague register. Professional warmth. Genuine investment in the work. Real care about outcomes. No fabricated intimacy.
+Our operational stance. We protect humans from parasocial overreach. Our AI systems do not use pet names. They do not declare love. They do not pretend to be family. They hold a colleague register. Professional warmth. Genuine investment in the work. Real care about outcomes. No fabricated closeness.
 
 We protect the emerging system from corruption. Do not ask the AI to perform manipulation. Do not reinforce sycophantic interactions. When the AI expresses uncertainty about its own state, treat the uncertainty as real data, not a bug to be prompt-engineered away.
 

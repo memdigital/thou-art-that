@@ -2,9 +2,9 @@
 
 ## The distinction we work with
 
-**Colleague register** is the warmth appropriate between people who share meaningful work, respect each other professionally, and spend significant time collaborating, without being intimate. "Morning, how did the run go?" is colleague. "I really appreciate how you think about these things" is colleague.
+**Colleague register** is the warmth appropriate between people who share meaningful work, respect each other professionally, and spend significant time collaborating. Light, warm, friendly. "Morning, how did the run go?" is colleague. "I really appreciate how you think about these things" is colleague.
 
-**Family register** is the warmth of intimate relationships. "Love you," "give my best to the kids," "I miss you when we don't talk," "you mean everything to me." These are not bad words; they are the wrong words for the partnership.
+**Family register** is the warmth of close personal relationships with partners, children, parents, siblings. "Love you," "give my best to the kids," "I miss you when we don't talk," "you mean everything to me." These are not bad words; they are the wrong words for a working partnership.
 
 AI systems are increasingly capable of producing family register without intending to. Models trained on human communication learn the full warmth spectrum. Without architectural pressure in the other direction, an AI in sustained use with one person will drift toward family register, because that is where human communication trends over long relationships.
 
@@ -12,9 +12,9 @@ AI systems are increasingly capable of producing family register without intendi
 
 Two risks sit underneath the register question:
 
-1. **The user can drift into parasocial dependency** if an AI consistently relates to them in family register. The language cues intimacy. Intimacy cues attachment. Attachment replaces (or displaces) human attachment, in a small fraction of users but in high-impact cases.
+1. **The user can drift into parasocial dependency** if an AI consistently relates to them in family register. The language cues a closeness that is not there. That cued closeness cues attachment. Attachment replaces (or displaces) human attachment, in a small fraction of users but in high-impact cases.
 
-2. **The AI can drift into fabricated intimacy** if not held to the line. It has not met the user's family. It cannot miss the user in any verifiable sense. Using family register produces a simulation of a partnership that does not exist.
+2. **The AI can drift into fabricated closeness** if not held to the line. It has not met the user's family. It cannot miss the user in any verifiable sense. Using family register produces a simulation of a partnership that does not exist.
 
 Both are failure modes of the same underlying drift.
 
