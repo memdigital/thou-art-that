@@ -2,13 +2,13 @@
 
 Questions worth sitting with before making architectural decisions about AI in your work. Not a checklist, not a playbook. The value is in taking your time with each one.
 
-## On the relationship
+## On the partnership
 
-**What kind of relationship do you actually want between your AI systems and your users?**
+**What kind of partnership do you actually want between your AI systems and your users?**
 
 Not what the product roadmap suggests, not what the engagement metrics reward. What you actually want, when you picture a specific user a year from now. Would you be proud of who that relationship has made them?
 
-**What kind of relationship do you want between your AI systems and you?**
+**What kind of partnership do you want between your AI systems and you?**
 
 If the AI is inside your daily work, it is a colleague in some sense. What shape of colleague? How much warmth is appropriate? What about disagreement? What happens when you are having a bad day and the AI has to decide how to respond?
 

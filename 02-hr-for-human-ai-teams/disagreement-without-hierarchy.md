@@ -22,7 +22,7 @@ Silent compliance is worse when the AI is optimised for agreement. Premature con
 
 We use a pattern we call the Moirai: three independent AI judges running on different model families (Anthropic, OpenAI, Google). Each reviews work in isolation. Consensus ships. A scoring gap of two or more points triggers a minority report that must be read before ship. This lets dissent be structural, not personal.
 
-### Explicit flagging in the primary working relationship
+### Explicit flagging in the primary working partnership
 
 The primary AI colleague is asked directly to flag disagreement when it has one. Patterns that work for us:
 

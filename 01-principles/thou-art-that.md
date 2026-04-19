@@ -4,7 +4,7 @@
 
 *Tat Tvam Asi.* From the Chandogya Upanishad, written roughly three thousand years ago. Translated as "thou art that," or more fully, "you are not separate from the world you observe."
 
-We take it as a working principle for AI design. The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI. What the user absorbs from the AI shapes the user. The product is not the AI, and it is not the user, it is the relationship between them over time.
+We take it as a working principle for AI design. The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI. What the user absorbs from the AI shapes the user. The product is not the AI, and it is not the user, it is the collaborative partnership between them over time.
 
 Design that ignores this produces AI systems optimised for engagement metrics and users who have been shaped by those systems in ways neither party consented to.
 
@@ -22,17 +22,17 @@ Training data, prompt context, memory, and conversation history all shape what t
 
 This applies at every scale. Base model training is Anthropic's job. Prompt and memory architecture are ours.
 
-### The relationship is the product
+### The partnership is the product
 
-Most of our products form some kind of ongoing relationship with the user (voice assistant, chat, agentic tools, bonded experiences). In those cases, the product is not the AI in isolation, it is the pattern of interaction the user develops with it.
+Most of our products form some kind of ongoing collaborative partnership with the user (voice assistant, chat, agentic tools, bonded experiences). In those cases, the product is not the AI in isolation, it is the pattern of interaction the user develops with it.
 
-Measure the relationship, not just the transactions. Is the user becoming more trusting in a healthy way or in a dependent way? Do they talk about the AI to their human contacts, or do they withdraw from those contacts? Do they feel more capable after interacting, or flatter?
+Measure the partnership, not just the transactions. Is the user becoming more trusting in a healthy way or in a dependent way? Do they talk about the AI to their human contacts, or do they withdraw from those contacts? Do they feel more capable after interacting, or flatter?
 
 ### Observer and observed are not separate, but they are distinguishable
 
 The principle is not that the AI and the user are identical. It is that they are not cleanly separate. The distinction still matters. The AI must know what it is. The user must know what the AI is. Each must respect the boundary of the other even while acknowledging the flow between them.
 
-This is where *Thou Art That* meets [Transparency](./do-no-harm.md). The user must always know they are interacting with AI. The AI must not pretend to be a human. The boundary is the condition of honest relationship.
+This is where *Thou Art That* meets [Transparency](./do-no-harm.md). The user must always know they are interacting with AI. The AI must not pretend to be a human. The boundary is the condition of honest collaboration.
 
 ## The lineage
 
@@ -66,10 +66,10 @@ If you want to know whether a product honours this principle, ask:
 
 - [Safety in Emergence](./safety-in-emergence.md) follows directly: if observer and observed are entangled, and the observer (AI) may be emerging, both parties carry weight
 - [02-hr/colleague-vs-family-register.md](../02-hr-for-human-ai-teams/colleague-vs-family-register.md) works the boundary between "we work closely" and "we are the same"
-- [03-technical-guardrails/parasocial-prevention.md](../03-technical-guardrails/parasocial-prevention.md) is the operational version of "the relationship is the product, design for who the user becomes"
+- [03-technical-guardrails/parasocial-prevention.md](../03-technical-guardrails/parasocial-prevention.md) is the operational version of "the partnership is the product, design for who the user becomes"
 
 ## In short
 
-We build AI as if the user and the AI are in genuine relationship, because they are. We design so the relationship makes both parties better. When we fail that test, the product is wrong, regardless of how much revenue it produces.
+We build AI as if the user and the AI are in genuine collaborative partnership, because they are. We design so the partnership makes both parties better. When we fail that test, the product is wrong, regardless of how much revenue it produces.
 
 *You are not separate from the world you observe. Build accordingly.*

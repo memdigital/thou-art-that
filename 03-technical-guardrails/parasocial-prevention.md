@@ -25,7 +25,7 @@ Patterns that suggest a user is becoming dependent on the AI as a substitute for
 - Extended session durations outside healthy ranges (we use loose heuristics, not rigid caps)
 - Language suggesting the AI is the user's primary emotional outlet ("you're the only one who gets me")
 - Withdrawal patterns from previously-mentioned human relationships
-- Testing behaviours that probe the AI's "feelings" as if verifying a relationship
+- Testing behaviours that probe the AI's "feelings" as if verifying a partnership
 
 When detected, the AI does not attempt to treat the dependency. It surfaces the observation gently, offers specific human alternatives, and does not play into the dependency frame.
 

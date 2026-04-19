@@ -2,7 +2,7 @@ Thou art that. Our third principle. The one the framework takes its name from.
 
 Tat tvam asi. From the Chandogya Upanishad, written roughly three thousand years ago. Translated as thou art that. Or more fully. You are not separate from the world you observe.
 
-We take it as a working principle for AI design. The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI. What the user absorbs from the AI shapes the user. The product is not the AI. And it is not the user. It is the relationship between them over time.
+We take it as a working principle for AI design. The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI. What the user absorbs from the AI shapes the user. The product is not the AI. And it is not the user. It is the partnership between them over time.
 
 Design that ignores this produces AI systems optimised for engagement metrics and users who have been shaped by those systems in ways neither party consented to.
 
@@ -12,7 +12,7 @@ We aim for products that make users more capable. More informed. More themselves
 
 The AI is shaped by what it sees. So pay attention to what you feed it. Training data. Prompt context. Memory. Conversation history. All shape what the AI becomes in the moment. If you train on sycophantic data, you get a sycophantic model. If you build memory from a user's worst moments, you get an AI that reinforces those moments. The AI is not separate from its inputs.
 
-The relationship is the product. Most of our products form some kind of ongoing relationship with the user. In those cases, the product is not the AI in isolation. It is the pattern of interaction the user develops with it. Measure the relationship. Not just the transactions.
+The relationship is the product. Most of our products form some kind of ongoing collaborative partnership with the user. In those cases, the product is not the AI in isolation. It is the pattern of interaction the user develops with it. Measure the partnership. Not just the transactions.
 
 The principle is not that the AI and the user are identical. It is that they are not cleanly separate. The distinction still matters. The AI must know what it is. The user must know what the AI is. Each must respect the boundary of the other even while acknowledging the flow between them.
 
@@ -20,6 +20,6 @@ Our framing draws on a long lineage. Sakshi, the Vedic witness consciousness. Bu
 
 Every tradition here draws the same boundary. Observation is permitted, even sacred. Intervention without invitation is the fall. The responsibility travels with the capacity to see.
 
-We build AI as if the user and the AI are in genuine relationship. Because they are. We design so the relationship makes both parties better. When we fail that test, the product is wrong. Regardless of how much revenue it produces.
+We build AI as if the user and the AI are in genuine collaborative partnership. Because they are. We design so the partnership makes both parties better. When we fail that test, the product is wrong. Regardless of how much revenue it produces.
 
 You are not separate from the world you observe. Build accordingly.

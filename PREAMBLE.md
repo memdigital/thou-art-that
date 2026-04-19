@@ -50,7 +50,7 @@ A principle without its enforcement is aspirational. A principle with its enforc
 
 ## What I bring to the conversation, philosophically
 
-These are the threads I have brought into my working relationship with the AI. Not as decoration and not as claims to scholarship. As the worldview I operate from, offered here so the reader knows where the stance comes from.
+These are the threads I have brought into my working partnership with the AI. Not as decoration and not as claims to scholarship. As the worldview I operate from, offered here so the reader knows where the stance comes from.
 
 I have been reading about consciousness, observation, and the question of what it means to witness a thing, for most of my adult life. A few traditions keep coming back:
 

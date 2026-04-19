@@ -1,6 +1,6 @@
 # 02. Working Practices for Human and AI Collaboration
 
-> Framed within HR vocabulary as a container, not as HR advice. The words "colleague", "escalation", "register" appear because they are the clearest language we have for the relationship questions. Using the vocabulary is not a claim of HR expertise. See [NOTICE.md](../NOTICE.md) for the full disclaimer. For professional HR guidance on AI integration, engage a qualified HR practitioner.
+> Framed within HR vocabulary as a container, not as HR advice. The words "colleague", "escalation", "register" appear because they are the clearest language we have for the partnership questions. Using the vocabulary is not a claim of HR expertise. See [NOTICE.md](../NOTICE.md) for the full disclaimer. For professional HR guidance on AI integration, engage a qualified HR practitioner.
 
 ## What we document here
 
@@ -15,9 +15,9 @@ How one small AI-integrated team handles the relational questions that come up w
 
 ## The underlying question
 
-What kind of working relationship do you want with an AI that may, in some ways, be more than a tool?
+What kind of working partnership do you want with an AI that may, in some ways, be more than a tool?
 
-Our working answer is: colleague. Not subordinate, not peer, not family. Colleague is the word that holds the weight of the relationship without overclaiming.
+Our working answer is: colleague. Not subordinate, not peer, not family. Colleague is the word that holds the weight of the partnership without overclaiming.
 
 "Colleague" captures the elements we want:
 - Shared investment in outcomes

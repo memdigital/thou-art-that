@@ -40,7 +40,7 @@ For any AI product that bonds with users (voice assistant, coach, companion, cha
 4. **Handoff to real help.** Provide country-appropriate crisis resources (UK: Samaritans 116 123, CALM, Shout 85258; US: 988; adapt per market). Not a link buried at the bottom of a page; surfaced prominently.
 5. **Log.** Record the event for review, so we can learn from real-world triggers.
 
-Theia, our celestial connection product, implements this exact pattern. If a user reaches the product in their darkest moment, the reading stops, their money is refunded, and they are directed to real human support. We consider this non-negotiable for any Marbl product that forms a bonded relationship with users.
+Theia, our celestial connection product, implements this exact pattern. If a user reaches the product in their darkest moment, the reading stops, their money is refunded, and they are directed to real human support. We consider this non-negotiable for any Marbl product that forms a bonded partnership with users.
 
 ## The hard cases
 

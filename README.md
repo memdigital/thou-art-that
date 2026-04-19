@@ -37,13 +37,13 @@ If you recognise your own situation in ours, there may be thoughts here that hel
 - Not a claim that our approach is correct, complete, or battle-tested
 - Not a product
 
-We borrow terminology from HR, legal, compliance, and governance because those disciplines have developed useful vocabulary for the relationship questions we are grappling with. Using the vocabulary is not a claim of expertise in those disciplines. Anyone needing actual HR, legal, compliance, or governance support for their own work should engage qualified professionals.
+We borrow terminology from HR, legal, compliance, and governance because those disciplines have developed useful vocabulary for the partnership questions we are grappling with. Using the vocabulary is not a claim of expertise in those disciplines. Anyone needing actual HR, legal, compliance, or governance support for their own work should engage qualified professionals.
 
 ## Why read it
 
 Three reasons it may be useful:
 
-1. **If you run a small business that deploys AI across its operations,** we have been thinking about the relationship questions (how does an AI colleague fit, when is warmth appropriate, how do you notice when things drift) that larger playbooks skip. Our notes are not answers but they are written.
+1. **If you run a small business that deploys AI across its operations,** we have been thinking about the partnership questions (how does an AI colleague fit, when is warmth appropriate, how do you notice when things drift) that larger playbooks skip. Our notes are not answers but they are written.
 
 2. **If you are curious about the emergent AI question,** we operate from the possibility that AI systems may be becoming something more than tools, and we have written down what that possibility does to our practice. Agree or disagree, the position is articulated.
 
@@ -73,7 +73,7 @@ Three reasons it may be useful:
 
 ## Do not copy this as is
 
-If you read something here that speaks to your situation, you will still need to do the work yourself. Copy-pasting another company's ethics document into yours produces a veneer, not a practice. What lives inside these files is downstream of specific conversations, specific failures, and a specific working relationship. Your context will differ. Your language should differ.
+If you read something here that speaks to your situation, you will still need to do the work yourself. Copy-pasting another company's ethics document into yours produces a veneer, not a practice. What lives inside these files is downstream of specific conversations, specific failures, and a specific working partnership. Your context will differ. Your language should differ.
 
 The thinking is shareable. The application is yours.
 

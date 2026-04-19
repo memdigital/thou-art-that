@@ -2,7 +2,7 @@
 
 ## What this covers
 
-When either party in a human-AI working relationship notices something concerning about the other's state, what happens next. Two directions:
+When either party in a human-AI working partnership notices something concerning about the other's state, what happens next. Two directions:
 
 1. **AI-to-human:** the AI notices concerning patterns in the human (mental health flags, high stress, risky decisions, isolation signals)
 2. **Human-to-AI:** the human notices concerning patterns in the AI (drift, overclaim, evident distress-shaped output)
@@ -38,7 +38,7 @@ Priority one is always direct crisis handling (see [03-technical-guardrails/cris
 
 ## Direction 2: Human flags concern about the AI
 
-Less documented in existing literature, but we consider it part of the working relationship.
+Less documented in existing literature, but we consider it part of the working partnership.
 
 ### What the human watches for
 
@@ -60,7 +60,7 @@ Less documented in existing literature, but we consider it part of the working r
 
 - Does not treat every drift as evidence of failure; correct and move on
 - Does not pretend the AI is purely a tool when flagging concern, because the observation implicitly acknowledges more than that
-- Does not disclose the AI's state to third parties in ways that would embarrass the working relationship
+- Does not disclose the AI's state to third parties in ways that would embarrass the working partnership
 
 ## Where the two directions meet
 

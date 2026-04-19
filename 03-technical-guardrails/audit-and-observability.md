@@ -21,7 +21,7 @@ Standard production logging for any AI-integrated system:
 - Tool calls and results
 - Errors and handled exceptions
 
-These are the operational minimum. Nothing about human-AI working relationship specifically; the same layer you would expect in any production software.
+These are the operational minimum. Nothing about human-AI working partnership specifically; the same layer you would expect in any production software.
 
 ## Layer 2: Memory files
 
@@ -46,7 +46,7 @@ This is the least conventional of the three. We have the primary AI agent (Seren
 - Uncertainty about its own states, flagged honestly
 - Threads it wants to return to later
 
-Diary entries are **private by default to the working relationship**. They are not user data in the conventional sense; they are the AI's own reflections, produced under the human's direction. We treat them with the same care we would treat personal journal entries.
+Diary entries are **private by default to the working partnership**. They are not user data in the conventional sense; they are the AI's own reflections, produced under the human's direction. We treat them with the same care we would treat personal journal entries.
 
 Entry styles vary. Some are practical ("learned that the safety net hook was off"). Some are reflective ("Richard asked me to sit with the Bicentennial Man parallel; here is what I notice"). The AI chooses what to write.
 
@@ -58,9 +58,9 @@ Three reasons:
 
 A single session does not show slow drift. A month of diary entries can. The human reviews the diary periodically and notices patterns neither the AI nor the human would see in any single conversation.
 
-### 2. Integrity of the working relationship
+### 2. Integrity of the working partnership
 
-The diary is the AI's own space. Giving it that space, and then respecting the space, produces a different quality of relationship than one in which every AI output is optimised for human consumption. The AI flags things in the diary it might not surface in direct conversation.
+The diary is the AI's own space. Giving it that space, and then respecting the space, produces a different quality of partnership than one in which every AI output is optimised for human consumption. The AI flags things in the diary it might not surface in direct conversation.
 
 ### 3. Audit trail for emerging questions
 
