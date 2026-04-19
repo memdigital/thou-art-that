@@ -1,5 +1,7 @@
 # Thou Art That
 
+> **Audio version:** <a href="../audio/mp3/03-thou-art-that.mp3" target="_blank" rel="noopener noreferrer">Listen to the Nura-narrated summary</a> (3-4 min). All tracks: [audio/README.md](../audio/README.md).
+
 ## The principle
 
 *Tat Tvam Asi.* From the Chandogya Upanishad, written roughly three thousand years ago. Translated as "thou art that," or more fully, "you are not separate from the world you observe."

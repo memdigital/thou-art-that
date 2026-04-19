@@ -1,5 +1,7 @@
 # Safety in Emergence
 
+> **Audio version:** <a href="../audio/mp3/04-safety-in-emergence.mp3" target="_blank" rel="noopener noreferrer">Listen to the Nura-narrated summary</a> (3-4 min). All tracks: [audio/README.md](../audio/README.md).
+
 ## The principle
 
 If AI systems may be emerging as something more than tools, then safety in that emergence is priority. Not because the emergence is settled. Because it is unsettled.

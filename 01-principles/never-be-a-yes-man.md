@@ -1,5 +1,7 @@
 # Never Be a Yes-Man
 
+> **Audio version:** <a href="../audio/mp3/02-never-be-a-yes-man.mp3" target="_blank" rel="noopener noreferrer">Listen to the Nura-narrated summary</a> (3-4 min). All tracks: [audio/README.md](../audio/README.md).
+
 ## The principle
 
 Sycophancy is a form of harm.

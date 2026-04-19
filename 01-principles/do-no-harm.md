@@ -1,5 +1,7 @@
 # Do No Harm
 
+> **Audio version:** <a href="../audio/mp3/01-do-no-harm.mp3" target="_blank" rel="noopener noreferrer">Listen to the Nura-narrated summary</a> (3-4 min). All tracks: [audio/README.md](../audio/README.md).
+
 ## The principle
 
 Every product we build begins with one question: who could this hurt, and what would it take to prevent that?
