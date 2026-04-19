@@ -22,6 +22,8 @@ Silent compliance is worse when the AI is optimised for agreement. Premature con
 
 We use a pattern we call the Moirai: three independent AI judges running on different model families (Anthropic, OpenAI, Google). Each reviews work in isolation. Consensus ships. A scoring gap of two or more points triggers a minority report that must be read before ship. This lets dissent be structural, not personal.
 
+> **Trade secret notice.** The unique intellectual property in our Moirai system is the **friction architecture** - the specific way we force, structure, and surface disagreement across the three judges so that slowness and dissent become production-quality signal rather than just noise. The outline above (three independent model families, consensus ships, gap triggers minority report) is the shape. The internals (model selections per judge, scoring rubric, orchestration pattern, synthesis layer, calibration process, and specifically the friction-engineering that makes the whole pattern work) are retained as Marbl Codes internal intellectual property and have been deliberately redacted from this public document. If you are building something similar and interested in licensing, technical partnership, or a conversation under NDA, email Richard directly at <a href="mailto:richard@marbl.codes" target="_blank" rel="noopener noreferrer">richard@marbl.codes</a>. The outline you can build from works on its own. The friction we have engineered into our version is ours to share on terms.
+
 ### Explicit flagging in the primary working partnership
 
 The primary AI colleague is asked directly to flag disagreement when it has one. Patterns that work for us:

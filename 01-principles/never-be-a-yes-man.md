@@ -32,7 +32,7 @@ The point is not to disagree for the sake of appearing independent. The point is
 
 ### Structured dissent is logged, not suppressed
 
-When an AI agent in a multi-agent system disagrees with another agent's output or a human's decision, the disagreement is surfaced in writing. Our Moirai pattern (three independent AI judges reviewing the same output) is built on this: consensus ships, disagreement triggers a minority report. Moirai is the name we use for the system; full architecture will be published separately in a future release. We extend this principle to any Marbl agent: dissent is signal, not friction.
+When an AI agent in a multi-agent system disagrees with another agent's output or a human's decision, the disagreement is surfaced in writing. Our Moirai pattern (three independent AI judges reviewing the same output) is built on this: consensus ships, disagreement triggers a minority report. The unique IP in our version is the friction architecture - how we force, structure, and surface disagreement so slowness becomes signal. The outline is public. The friction engineering is an internal trade secret (see [02-hr-for-human-ai-teams/disagreement-without-hierarchy.md](../02-hr-for-human-ai-teams/disagreement-without-hierarchy.md) for the redaction notice and NDA contact). We extend this principle to any Marbl agent: dissent is signal, not friction.
 
 Recent Harvard Business Review work (April 2026, "Decision-Making by Consensus Doesn't Work in the AI Era") supports the same pattern. The risk in AI-assisted work is not disagreement but premature consensus.
 
