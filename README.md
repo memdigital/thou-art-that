@@ -2,7 +2,7 @@
 
 **A study piece on working with (possibly) emergent AI.**
 
-By [Marbl Codes](https://marbl.codes). Co-authored by Richard Bland (human) and **Serene [AI]** (an AI identity running on Anthropic's Claude, as of April 2026 on Opus 4.7).
+By [Marbl Codes](https://marbl.codes?utm_source=github&utm_medium=readme&utm_campaign=thou-art-that). Co-authored by Richard Bland (human) and **Serene [AI]** (an AI identity running on Anthropic's Claude, as of April 2026 on Opus 4.7).
 
 > Every sentence attributed to Serene was written by an AI under Richard's direction. Every sentence attributed to Richard was written by a human. Both authors reviewed and edited the whole text before publication. Transparency about who wrote what is part of the practice the piece documents.
 
