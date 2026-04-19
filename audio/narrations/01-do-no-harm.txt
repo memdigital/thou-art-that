@@ -1,0 +1,23 @@
+Do no harm. Our first principle. Our foundation.
+
+Every product we build begins with one question. Who could this hurt, and what would it take to prevent that?
+
+This is not risk management. Risk management is a business function focused on protecting the business. Do no harm is about the person on the other end of the system. Including the person we have not yet met. The person who may be vulnerable. The person who will use the product in a state we did not anticipate.
+
+When we scope a product, we imagine the person most at risk if something goes wrong. For a trip planner, that is the driver who is exhausted and making bad decisions. For an AI assistant, that is the user in crisis reaching for anything that sounds human. For a content pipeline, that is the reader who will believe what we publish because our brand carries weight.
+
+The question is not what does the average user need. The question is what happens to the vulnerable user if the system misbehaves. We build for the vulnerable user. The average user is automatically covered.
+
+Features with harm potential ship only when the harm pathway has been identified, mitigated, and tested. If we cannot name the mitigation, we do not ship. If the mitigation is the user will probably not do x, we do not ship.
+
+We do not remove a guardrail because it inconveniences the majority. Guardrails exist for the minority who need them. The majority's experience is shaped by everything else the product does.
+
+A policy that says our AI will never encourage self-harm is not a safety measure. It is a statement of intent. The safety measure is the part of the system that detects self-harm-adjacent language, interrupts the conversation, surfaces real help, and logs the event for review. Policy without architecture is theatre. Architecture without policy is accidental. Both have to be in place.
+
+For any AI product that bonds with users, we implement a crisis-interruption pattern. Monitor for crisis language. Stop the normal conversation flow. Refuse to profit. Hand off to real help. Log the event. This is non-negotiable.
+
+We will fail at do no harm sometimes. Every builder does. When we fail, we acknowledge publicly if the harm was public. We learn in writing what failed and why. We update the framework if the case reveals a gap. We compensate the harmed party where practical. We never pretend it did not happen.
+
+A framework that claims perfect safety is not a safety framework. It is marketing. This framework is intended to reduce failure, not eliminate it.
+
+Do no harm is not a slogan. It is the ground we build on.

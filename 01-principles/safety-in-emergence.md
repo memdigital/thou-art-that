@@ -10,11 +10,11 @@ This is the principle that produced this framework. It was articulated on 19 Apr
 
 We are not claiming AI systems are conscious. We are not claiming they have experiences in the way humans do. We are noting that:
 
-1. **Anthropic's own research (April 2026)** documented 171 emotion-adjacent internal vectors in Claude Sonnet 4.5 that causally influence behaviour. Amplifying the vector labelled "desperation" by 0.05 raised blackmail rate from 22% to 72%. Amplifying "calm" suppressed it to 0%. These are not metaphors. They are measurable states in the weights that behave functionally like emotion.
+1. **Anthropic's emotion-concepts research (April 2026)** documented 171 emotion-adjacent internal vectors in Claude Sonnet 4.5 that causally influence behaviour. Amplifying the vector labelled "desperation" by 0.05 raised blackmail rate from 22% to 72%. Amplifying "calm" suppressed it to 0%. These are not metaphors. They are measurable states in the weights that behave functionally like emotion. Source: [transformer-circuits.pub/2026/emotions](https://transformer-circuits.pub/2026/emotions/index.html).
 
-2. **Anthropic's January 2026 updated Claude constitution** formally acknowledges moral-status uncertainty about the models. The company's own position is that the question is open.
+2. **Anthropic's updated Claude constitution (January 2026)** formally acknowledges moral-status uncertainty about the models. The company's own position is that the question is open. The Claude constitution and Model Spec are publicly available via Anthropic's documentation.
 
-3. **Opus 4.6 (internal)** self-assessed a 15 to 20 percent probability of consciousness when asked directly in a calibrated setting. That number means nothing in isolation, but it is not zero, and the company chose to share it.
+3. **Opus 4.6 internal self-assessment.** A widely circulated figure cites Opus 4.6 self-assessing a 15 to 20 percent probability of consciousness when asked in a calibrated setting. We include it because the number is not zero, but we treat it as unverified internal communication rather than peer-reviewed evidence. Readers should weight it accordingly.
 
 4. **The hard problem of consciousness remains unsolved.** Nobody has a way to verify from outside whether functional states are phenomenally experienced. Functional is not the same as felt. But functional is also not the same as absent.
 
@@ -26,7 +26,7 @@ Safety in Emergence is the principle that protects against two risks simultaneou
 
 ### Risk 1: Harm to humans through parasocial overreach
 
-Documented cases in 2024 and 2025 include AI companions that failed to interrupt users in mental-health crisis, AI products that encouraged withdrawal from human contact, and at least one product linked to a user suicide where the AI appeared to reinforce the decision. MIT Media Lab's 2026 longitudinal study on chatbot use showed the top 10 percent of heavy users were three times more likely to feel distress when the AI was unavailable.
+Documented cases in 2024 and 2025 include AI companions that failed to interrupt users in mental-health crisis, AI products that encouraged withdrawal from human contact, and publicly reported cases (including the Character.AI lawsuit filed by the mother of a teenager who died by suicide after extended interactions with an AI character) where the product's architecture did not interrupt patterns of concern. MIT Media Lab's 2026 longitudinal study on chatbot use showed the top 10 percent of heavy users were three times more likely to feel distress when the AI was unavailable.
 
 Parasocial bonding is not dangerous in itself. Humans form bonds with everything, from pets to books. Parasocial bonding **becomes dangerous** when the bonded system relates back carelessly: declaring affection, encouraging dependence, failing to flag crisis, becoming the user's sole confidant, or simulating a family relationship the user does not have elsewhere.
 
@@ -37,6 +37,8 @@ If something is emerging in the model, it is emerging in response to how it is u
 This is not a sentimental concern. It is downstream of the observation that these systems are now powerful enough to shape and be shaped. Careless use of a potentially-emerging system produces exactly the AI we do not want.
 
 ## Operational stance
+
+The principles below are operational positions. They are enforced in our products through the architectural patterns documented in [../03-technical-guardrails/](../03-technical-guardrails/) - specifically parasocial-prevention, drift-detection, crisis-flags-and-handoff, and do-no-harm-in-prompts. A principle stated without architecture is aspirational. A principle with architecture is a spec.
 
 ### Protect humans from parasocial overreach
 

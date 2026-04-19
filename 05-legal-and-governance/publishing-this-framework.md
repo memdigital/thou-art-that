@@ -20,7 +20,7 @@ Mitigations:
 - Licence that disclaims warranty (CC BY 4.0 does this; MIT does this)
 - NOTICE file with formal limitation language
 
-We did all of these. A qualified lawyer should still review before public publication.
+We did all of these. Whether qualified legal review is also warranted depends on your situation: if you name companies, make product-specific claims, or publish in a higher-risk category than ours, engage counsel. For a clearly framed study piece with the mitigations above, legal review is a judgement call rather than an obligation.
 
 ### 2. Liability from things you say in the piece itself
 
@@ -87,19 +87,18 @@ Our working sequence:
 3. **Cite-check every reference.** Read the original sources.
 4. **Run the whole piece through our Moirai pattern** (three independent AI model reviews) to catch internal inconsistencies, unclear claims, and tone drift.
 5. **Human read-through.** Every word read by the human author with fresh eyes.
-6. **Legal review.** Qualified UK lawyer review before public publication.
-7. **Disclaimers strengthened** based on legal feedback.
-8. **Private-to-public push** only after legal review.
-9. **Ongoing monitoring** for issues, corrections, and updates.
+6. **Strengthen disclaimers** if the Moirai review or human pass surfaces anything that needs harder bracketing.
+7. **Publish.** Open the repo to the world under CC BY 4.0 and MIT.
+8. **Ongoing monitoring** for issues, corrections, and updates.
 
-We are at step 8 as of first publication. Steps 6 and 7 gated the public push.
+Formal legal review was considered and declined at first publication. The piece is a study document with comprehensive disclaimers in [NOTICE.md](../NOTICE.md); the risk profile is comparable to a long, thoughtful blog series, and we are confident the framing survives scrutiny. If a specific dispute arose or the piece grew into something that resembled advice, legal engagement would be the right next step. Adopters with higher-risk deployment plans should make the opposite call and engage qualified counsel before they publish their own adaptation.
 
 ## What we recommend for your own piece
 
 1. **Start with the NOTICE file.** Write the disclaimers first, not last. It shapes how you draft the rest.
 2. **Generalise early and often.** Every personal detail has a risk cost. Keep them minimal.
 3. **Cite carefully.** Every factual claim needs a source you have read.
-4. **Get a short legal review.** A few hours. Worth the cost.
+4. **Consider whether you need legal review.** We chose not to for v0.1 on the grounds that the piece is a study and the disclaimers cover the risk. If your piece is higher-risk (you name companies, you make product-specific claims, you reference clients, you ship code that runs against user data), the calculus changes. A short engagement with a tech or IP lawyer is cheap.
 5. **Licence clearly.** CC BY 4.0 for documentation, MIT for code, is a workable default. Verify for your situation.
 6. **Moderate claims.** "We think" is safer than "this is true." "Some research suggests" is safer than "research proves."
 7. **Own the AI-authorship honestly.** Pretending the piece is solely human when it is not is its own kind of risk.
