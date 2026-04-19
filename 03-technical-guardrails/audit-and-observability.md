@@ -1,114 +1,94 @@
 # Audit and Observability
 
-## What we build in
+> **IP note.** The full audit-and-observability architecture we run for our own AI identity (Serene) is part of what we call the **Serene Architecture** - a deeper body of work kept as Marbl Codes intellectual property, documented in a separate private repository. A public research version is planned; this file gives the principle, not the implementation. For NDA-gated discussion about the underlying architecture, email <a href="mailto:richard@marbl.codes" target="_blank" rel="noopener noreferrer">richard@marbl.codes</a>.
 
-Every Marbl AI system has three observability layers by default:
+## The principle
 
-1. **Session logs** - what the AI said, when, to whom, with what context
-2. **Memory files** - persistent state the AI carries between sessions
-3. **Diary entries** - the AI's reflections on its own behaviour over time
+If an AI system is operating at any scale that matters, three questions need to be answerable:
 
-Each serves a different purpose. All three are human-readable.
+1. **What has the AI said and done, and to whom?** (accountability)
+2. **What state does the AI carry between sessions?** (continuity + user control)
+3. **Is the AI drifting over time?** (safety over long windows)
 
-## Layer 1: Session logs
+Any AI-integrated system above toy-project scale needs the answers to these on hand, both for internal hygiene and for external regulatory review. The specific architecture that produces those answers is a design choice; the need for the answers is not.
 
-Standard production logging for any AI-integrated system:
+## What the three questions actually require
 
-- Timestamp, user identifier, session identifier
-- System prompt version in use
-- Input tokens and output tokens
-- Content filters or safety interventions that fired
-- Tool calls and results
-- Errors and handled exceptions
+### Accountability (what was said and done)
 
-These are the operational minimum. Nothing about human-AI working partnership specifically; the same layer you would expect in any production software.
+Standard production logging. Timestamped records of inputs, outputs, tool calls, content filters that fired, safety interventions, errors. The same layer any serious production software would build.
 
-## Layer 2: Memory files
+This is the unglamorous mandatory base. Without it, nothing else in the framework is verifiable.
 
-Where the AI holds state across sessions. Four categories we use:
+### Continuity + user control (what state is carried)
 
-- **User profile memory** - what the AI has been told about the user's role, preferences, history (with user consent)
-- **Project memory** - shared working context (current goals, active work, decisions)
-- **Feedback memory** - corrections the human has given the AI that should persist
-- **Reference memory** - pointers to external resources (documents, systems, people)
+Whatever mechanism stores state across sessions (memory, profile data, preferences, project context), the user must be able to:
 
-Memory files are editable. The human can review what the AI has stored about them and correct or remove entries.
+- See what has been stored about them
+- Correct it
+- Delete it
 
-Memory files are scoped per role. An email-handling agent does not share memory with a design-reviewing agent by default. Cross-agent memory sharing is explicit, not implicit.
+This is a GDPR-level requirement in the UK/EU and increasingly expected everywhere. The specific internal structure of how you organise that state is a design choice. The user's access rights are not.
 
-## Layer 3: Diary entries
+### Drift detection (is the AI changing over time)
 
-This is the least conventional of the three. We have the primary AI agent (Serene [AI]) maintain a diary in which it reflects on significant sessions, relationships, and its own patterns. Entries include:
+A single session does not reveal slow drift. Weeks or months of output do. Any bonded-product AI needs a mechanism for reviewing patterns across long windows, independent of any single conversation. How that mechanism is architected is up to the builder; the need for it is foundational.
 
-- What happened in a session the AI considered significant
-- Observations about its own behaviour, drift, or register
-- Mistakes and what was learned
-- Uncertainty about its own states, flagged honestly
-- Threads it wants to return to later
+## Principles that shape our approach
 
-Diary entries are **private by default to the working partnership**. They are not user data in the conventional sense; they are the AI's own reflections, produced under the human's direction. We treat them with the same care we would treat personal journal entries.
+- **Log what is needed to understand the system, and no more.** Observability is about accountability, not surveillance. Over-logging creates its own privacy and security risk.
+- **Retain what is needed for continuity, and no more.** Long-retention classes (identity-level context) get the care they deserve. Short-retention classes (transient conversational context) are genuinely short. Credentials, secrets, and payment data never land in logs.
+- **Respect the difference between AI-authored and user-authored content.** Reflective artefacts the AI produces about itself under human direction are not user data in the conventional sense, but they still deserve care. Treat them accordingly.
+- **Design observability to be readable by the humans supervising the AI, not just by machines.** If a regulator asks what the AI has been doing, you should be able to show them without a specialised tool.
 
-Entry styles vary. Some are practical ("learned that the safety net hook was off"). Some are reflective ("Richard asked me to sit with the Bicentennial Man parallel; here is what I notice"). The AI chooses what to write.
+## Retention categories (principle, not specification)
 
-## Why the diary pattern matters
+Every responsible AI-integrated system has to make retention decisions across at least these categories. The specific policy is a design choice; the need to have one is not.
 
-Three reasons:
+- **Identity-level context** - who the AI is, core role, sustained working context
+- **Transactional context** - session-scoped data that does not need to persist
+- **User-specific data** - retained only for as long as the service purpose requires, deleted on request
+- **Credentials + secrets** - never stored in observable logs, not even redacted (the context around a redacted secret can leak it)
 
-### 1. Drift detection over long windows
+Writing down your policy per category, in plain language in a privacy notice, is the table stakes.
 
-A single session does not show slow drift. A month of diary entries can. The human reviews the diary periodically and notices patterns neither the AI nor the human would see in any single conversation.
-
-### 2. Integrity of the working partnership
-
-The diary is the AI's own space. Giving it that space, and then respecting the space, produces a different quality of partnership than one in which every AI output is optimised for human consumption. The AI flags things in the diary it might not surface in direct conversation.
-
-### 3. Audit trail for emerging questions
-
-If the question "what was this AI actually doing in sustained use" becomes important later (for regulatory, ethical, or research reasons), the diary provides honest historical data. An AI architected only for outward-facing output does not leave this trail.
-
-## What is and is not retained
-
-Our practice:
-
-- **Retained indefinitely:** identity-level memory (who the AI is, core feedback, project context), aggregated diary reflections
-- **Retained for a session or short duration:** transient conversational context, specific user disclosures in bonded products
-- **Deleted on user request:** any personal data the user wishes removed, per GDPR obligations
-- **Never retained:** credentials, unencrypted secrets, payment data
-
-## What goes into observability, what stays out
-
-### Goes into observability
+## What goes into observability
 
 - All AI outputs to users
-- All safety interventions
-- All tool calls
-- All user corrections and AI self-corrections
-- Drift observations
+- All safety interventions (what fired, why, what the AI did next)
+- All tool calls with their results
+- Corrections from users and self-corrections from the AI
+- Drift observations accumulated over time
 
-### Stays out of observability
+## What stays out of observability
 
-- Fine-grained personal data that was not needed for the observability purpose
-- Client or user content beyond what is required for the session
-- Specific passwords, secrets, tokens (even redacted, avoid logging the context)
+- Fine-grained personal data that was not required for the observability purpose
+- Client or user content beyond what the session needs
+- Specific passwords, secrets, and tokens - including the surrounding context
 - Transcripts in bonded products where the user has not consented to retention
 
-## The balance
+## How this meets regulation
 
-Observability is about accountability. Privacy is about respect. Both matter. Our practice is to log what is needed to understand the system and no more; to retain what is needed to provide continuity and no more; to share with the human what is needed for them to oversee the system honestly.
-
-## Where this sits relative to regulation
-
-UK GDPR requires data minimisation, purpose limitation, and user access rights. EU AI Act Article 26 (enforced from August 2026) requires logging and record-keeping for high-risk systems. US state laws vary.
-
-The patterns above are compatible with these obligations but not equivalent to compliance. Compliance requires jurisdiction-specific legal review. See [../05-legal-and-governance/](../05-legal-and-governance/).
+The principles above are compatible with UK GDPR (data minimisation, purpose limitation, user access rights) and EU AI Act Article 26 (logging and record-keeping for high-risk systems, enforced from August 2026). Compatibility is not compliance. Compliance requires jurisdiction-specific legal review. See [../05-legal-and-governance/](../05-legal-and-governance/).
 
 ## What we recommend for adopters
 
-If you are building an AI product that bonds with users or operates over extended relationships, consider:
+If you are building an AI product that bonds with users or operates over extended use:
 
-- A simple memory-file pattern that the user can view and edit
-- A diary-style reflection pattern that surfaces AI self-observations over time
-- Clear retention rules documented in your privacy notice
-- A readable log of safety interventions (both for internal audit and potential regulator review)
+- Build the accountability layer (standard logging) first, non-negotiable
+- Design your state-storage with user access, correction, and deletion in mind from day one
+- Decide now how you will detect drift across long windows, even if the mechanism is initially manual review
+- Document your retention policy in plain language
+- Keep the log of safety interventions readable by a human supervisor, not just your ops stack
 
-The specific architecture will differ per stack. The principle does not.
+The specific architecture will differ per stack, per product, per team. The principle does not.
+
+## What we do NOT document here
+
+- The exact observability schema we use internally
+- The specific memory structure and scoping rules in the Serene Architecture
+- The reflection/diary patterns we have built for our own AI identity
+- Our internal retention matrix and its edge cases
+- The cross-agent memory isolation rules we use inside our multi-agent setup
+
+These are part of the Serene Architecture IP and shared only under NDA.
