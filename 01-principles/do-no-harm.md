@@ -1,6 +1,10 @@
 # Do No Harm
 
-> **Audio version:** <a href="../audio/mp3/01-do-no-harm.mp3" target="_blank" rel="noopener noreferrer">Listen to the Nura-narrated summary</a> (3-4 min). All tracks: [audio/README.md](../audio/README.md).
+> **Audio version** (Nura-narrated, 3-4 min):
+>
+> <audio controls src="../audio/mp3/01-do-no-harm.mp3"></audio>
+>
+> [Download MP3](../audio/mp3/01-do-no-harm.mp3) · [All tracks](../audio/README.md)
 
 ## The principle
 

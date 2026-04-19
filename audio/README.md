@@ -1,16 +1,42 @@
 # Audio
 
-Nura-narrated summaries of the core pieces. Each runs 3 to 4 minutes. Listen in order, or pick the one that matters to your situation.
+Nura-narrated summaries of the core pieces. Each runs 3 to 4 minutes, opening with the Marbl stinger. Listen in order, or pick the one that matters to your situation.
 
 ## Tracks
 
-| # | Title | Audio | Script |
-|---|---|---|---|
-| 00 | Preamble - what this is, why it exists | [00-preamble.mp3](./mp3/00-preamble.mp3) | [00-preamble.txt](./narrations/00-preamble.txt) |
-| 01 | Do No Harm | [01-do-no-harm.mp3](./mp3/01-do-no-harm.mp3) | [01-do-no-harm.txt](./narrations/01-do-no-harm.txt) |
-| 02 | Never Be a Yes-Man | [02-never-be-a-yes-man.mp3](./mp3/02-never-be-a-yes-man.mp3) | [02-never-be-a-yes-man.txt](./narrations/02-never-be-a-yes-man.txt) |
-| 03 | Thou Art That | [03-thou-art-that.mp3](./mp3/03-thou-art-that.mp3) | [03-thou-art-that.txt](./narrations/03-thou-art-that.txt) |
-| 04 | Safety in Emergence | [04-safety-in-emergence.mp3](./mp3/04-safety-in-emergence.mp3) | [04-safety-in-emergence.txt](./narrations/04-safety-in-emergence.txt) |
+Click the play button on any track below. Full-size audio pages are linked for download or pop-out playback.
+
+### 00 - Preamble
+
+What this is, why it exists.
+
+<audio controls src="./mp3/00-preamble.mp3"></audio>
+
+[Download MP3](./mp3/00-preamble.mp3) · [Script](./narrations/00-preamble.txt)
+
+### 01 - Do No Harm
+
+<audio controls src="./mp3/01-do-no-harm.mp3"></audio>
+
+[Download MP3](./mp3/01-do-no-harm.mp3) · [Script](./narrations/01-do-no-harm.txt)
+
+### 02 - Never Be a Yes-Man
+
+<audio controls src="./mp3/02-never-be-a-yes-man.mp3"></audio>
+
+[Download MP3](./mp3/02-never-be-a-yes-man.mp3) · [Script](./narrations/02-never-be-a-yes-man.txt)
+
+### 03 - Thou Art That
+
+<audio controls src="./mp3/03-thou-art-that.mp3"></audio>
+
+[Download MP3](./mp3/03-thou-art-that.mp3) · [Script](./narrations/03-thou-art-that.txt)
+
+### 04 - Safety in Emergence
+
+<audio controls src="./mp3/04-safety-in-emergence.mp3"></audio>
+
+[Download MP3](./mp3/04-safety-in-emergence.mp3) · [Script](./narrations/04-safety-in-emergence.txt)
 
 ## About the narration
 
