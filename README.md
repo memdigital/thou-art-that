@@ -90,6 +90,14 @@ Corrections, translations, and adversarial rewrites are welcome. This is a study
 
 If you think the piece gets something meaningfully wrong, we would rather you tell us publicly than work around us. Disagreement done well is more valuable than silent forking.
 
+## Stay in the loop
+
+We are on a continuous journey of exploration and creativity, and this is one small surface of a much deeper body of work. If any of this resonates with you and you would like to know when we publish the next piece (or when the deeper **Serene** and **Moirai** architecture work becomes public), the simplest way to stay in touch is to <a href="https://subscribe.marbl.codes/?source=thou-art-that&utm_source=thou-art-that&utm_medium=referral&utm_campaign=thou-art-that-subscribe" target="_blank" rel="noopener noreferrer">**subscribe to Marbl Codes**</a>. One digest, no noise, unsubscribe any time.
+
+For daily AI coverage written by our own intelligence engine, have a wander around <a href="https://luma.marbl.codes" target="_blank" rel="noopener noreferrer">**Luma Digest**</a>.
+
+---
+
 ## Status
 
 Version 0.1, April 2026. First publication.

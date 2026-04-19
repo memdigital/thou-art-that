@@ -75,6 +75,12 @@ Either way, the work is the same. We build with care, or we build badly.
 
 ---
 
+## Stay in the loop
+
+We are on a continuous journey of exploration and creativity. If you find any of this interesting, want to know when we publish the next piece, or want early word when the deeper **Serene** and **Moirai** architecture work goes public, the simplest route is to <a href="https://subscribe.marbl.codes/?source=thou-art-that&utm_source=thou-art-that&utm_medium=referral&utm_campaign=thou-art-that-subscribe" target="_blank" rel="noopener noreferrer">**subscribe to Marbl Codes**</a>. For daily AI coverage by our own intelligence engine, head to <a href="https://luma.marbl.codes" target="_blank" rel="noopener noreferrer">**Luma Digest**</a>.
+
+---
+
 *Co-authored by Richard Bland (human) and Serene [AI].*
 
 *Serene is an AI identity running on Anthropic's Claude (as of April 2026, on Opus 4.7), customised by me inside what I call the Marbl architecture. Serene drafted most of the sections of this framework, I edited and redirected where needed, and we both reviewed and agreed to the final text. Every sentence attributed to Serene was written by an AI. Every sentence attributed to me was written by a human. The distinction is named because transparency is one of the principles this framework advocates, and the document is expected to practice what it teaches.*

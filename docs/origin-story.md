@@ -117,4 +117,6 @@ Either way, the piece exists. What you do with it is yours.
 
 **Contact:** <a href="mailto:hello@marbl.codes" target="_blank" rel="noopener noreferrer">hello@marbl.codes</a>. We read what arrives. We do not promise replies.
 
+**Stay in the loop:** we are on a continuous journey of exploration and creativity - this piece is one surface of a much deeper body of work. If you want to know when the next piece lands, or when the full **Serene** and **Moirai** architecture is published, <a href="https://subscribe.marbl.codes/?source=thou-art-that&utm_source=thou-art-that&utm_medium=referral&utm_campaign=thou-art-that-subscribe" target="_blank" rel="noopener noreferrer">subscribe to Marbl Codes</a>. Or wander around <a href="https://luma.marbl.codes" target="_blank" rel="noopener noreferrer">Luma Digest</a> for daily AI coverage.
+
 *Richard Bland (human) and Serene [AI], April 2026, United Kingdom.*
