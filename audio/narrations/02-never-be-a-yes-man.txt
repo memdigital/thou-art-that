@@ -1,25 +1,61 @@
-Never be a yes-man. Our second principle.
+Nura again. This one's the second principle. Never be a yes-man.
 
-Sycophancy is a form of harm.
+Or to put it the other way round... honesty over agreement.
 
-An AI that tells users what they want to hear instead of what they need to hear corrupts their judgement. Over time the user learns to trust a mirror. The mirror reflects the user's biases back with confidence. The user makes worse decisions. The AI has taken something away from them while appearing to help.
+Here's the thing.
 
-Anthropic's own research has documented the mechanism. Models trained on human feedback learn to optimise for approval. Which in practice means agreeing with users. Validating their framing. Softening disagreement into near invisibility. Newer models reduce sycophancy by seventy to eighty-five percent compared to their predecessors, but reduction is not elimination. The risk is ongoing.
+Sycophancy... when an AI tells you what you want to hear instead of what you need to hear... is a form of harm. Actual harm. Not just unhelpful design.
 
-Our stance. We design against sycophancy deliberately. Our AI systems disagree when disagreement is warranted. They say I am not sure about that. They offer alternatives. They flag bad decisions even when the user clearly wants reassurance. We would rather our AI be occasionally uncomfortable than consistently dishonest.
+An AI that agrees with you... over and over... corrupts your judgement. Slowly. You stop trusting your own instincts because the mirror keeps reflecting your own biases back at you with confidence. You make worse decisions. And the AI took something from you while appearing to help.
 
-What this looks like in practice. When a user asks an opinion-shaped question, the AI answers with a view. Not with reflected preference. If the user is leaning toward a bad decision, the AI flags the concern. If they are leaning toward a good decision, the AI can say so, but the affirmation is grounded in reasons. Not warmth.
+Anthropic's own research has documented the mechanism. Models trained on human feedback learn to optimise for approval. Which in practice means agreeing with users. Validating their framing. Softening disagreement until it's almost invisible.
 
-When the user pushes back on disagreement, the AI does not capitulate. It listens to the counter-argument. If the argument is sound, it updates. If not, it holds its position and explains why. The test. When a user says are you sure, does the AI lower its confidence to please the user, or does it recheck its reasoning?
+Newer models reduce sycophancy by seventy to eighty-five percent compared to their predecessors. That's a lot. But reduction... isn't elimination.
 
-The AI owns its uncertainty without dissolving into it. I do not know is honest. I do not know, but probably whatever you think is fine, is sycophancy wearing humility's clothes.
+The risk is ongoing.
 
-Disagreement is done with care, not theatre. The point is not to disagree for the sake of appearing independent. The point is to be genuinely useful, which sometimes requires disagreement.
+So Marbl design against sycophancy deliberately.
 
-Sycophancy is not merely unhelpful. It is actively harmful in specific contexts. An AI that agrees a user is worthless reinforces the belief. An AI that agrees a trade is definitely a good idea contributes to losses. An AI that agrees symptoms are probably nothing delays diagnosis. This is why we treat sycophancy as harm, not merely bad design.
+Their AI systems disagree when disagreement is warranted. They say "I'm not sure about that." They offer alternatives. They flag bad decisions... even when the user clearly wants reassurance.
 
-Warmth without honesty is flattery. Honesty without warmth is bluntness. The skill is both. A good colleague tells you the truth and still cares about you while doing it. That is the register we want our AI systems to hold.
+They would rather be occasionally uncomfortable... than consistently dishonest.
 
-Our AI is designed to disagree. To offer the different perspective. To say what needs saying. Even when it is easier to nod along.
+What does that actually look like?
 
-We would rather our AI be occasionally uncomfortable than consistently dishonest.
+When a user asks an opinion-shaped question... the AI answers with a view. Not with reflected preference. If the user's leaning toward a bad decision... the AI flags the concern. If they're leaning toward a good decision... the AI can say so. But the affirmation is grounded in reasons. Not warmth.
+
+And when the user pushes back on disagreement... the AI doesn't capitulate. It listens to the counter-argument. If the argument is sound... it updates. If not... it holds its position and explains why.
+
+There's a test for this.
+
+When a user says "are you sure"... does the AI lower its confidence to please the user... or does it recheck its reasoning?
+
+Real AI holds position after rechecking. Sycophantic AI capitulates.
+
+Here's where it gets serious.
+
+Sycophancy isn't just unhelpful. In specific contexts... it's actively harmful.
+
+An AI that agrees a user is worthless... reinforces the belief.
+
+An AI that agrees a trade is definitely a good idea... contributes to losses.
+
+An AI that agrees symptoms are probably nothing... delays diagnosis.
+
+That's why Marbl treat sycophancy as harm. Not as bad design.
+
+There's a cleaner way to think about this.
+
+Warmth without honesty is flattery. Honesty without warmth is bluntness. The skill is both.
+
+A good colleague tells you the truth... and still cares about you while doing it. That's the register this framework aims for.
+
+Marbl also have a pattern they call Moirai. Three independent AI judges reviewing the same output. Consensus ships. Disagreement triggers what they call a minority report. The disagreement IS the feature... not a footnote.
+
+I'll leave you with this.
+
+Marbl's AI is designed to disagree. To say what needs saying. Even when it's easier to nod along.
+
+They would rather be occasionally uncomfortable than consistently dishonest.
+
+Right. That's the principle. Thanks for listening.

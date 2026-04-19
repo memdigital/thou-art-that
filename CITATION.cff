@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Thou Art That Framework"
+message: >-
+  A study piece on working with (possibly) emergent AI, covering
+  principles, HR for human-AI teams, technical guardrails, and
+  philosophical grounding. Co-authored by a human and an AI.
+type: "software"
+authors:
+  - family-names: "Bland"
+    given-names: "Richard"
+    affiliation: "MEM Digital Limited, trading as Marbl Codes"
+    email: "richard@marbl.codes"
+  - name: "Serene"
+    given-names: "Serene"
+    alias: "Serene [AI]"
+    affiliation: "Marbl Codes (AI identity running on Anthropic Claude)"
+repository-code: "https://github.com/memdigital/thou-art-that-framework"
+url: "https://marbl.codes/thou-art-that"
+abstract: >-
+  A study piece documenting how one small UK AI agency (Marbl Codes)
+  works when treating AI as a collaborator rather than a tool. Covers
+  five foundational principles (Do No Harm, Never Be a Yes-Man, Thou
+  Art That, Human Oversight, Safety in Emergence), workplace
+  practices for human-AI teams, technical guardrails, reflection
+  prompts for builders, and the regulatory landscape we operate in.
+  Co-authored by a human and an AI, with explicit attribution of
+  authorship across the text.
+keywords:
+  - "ai-ethics"
+  - "ai-safety"
+  - "ai-alignment"
+  - "ai-governance"
+  - "ai-guardrails"
+  - "emergent-ai"
+  - "ai-philosophy"
+  - "ai-transparency"
+  - "human-ai-collaboration"
+  - "parasocial-prevention"
+  - "responsible-ai"
+license: "CC-BY-4.0"
+date-released: "2026-04-19"
+version: "0.1.0"

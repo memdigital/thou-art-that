@@ -1,25 +1,67 @@
-Thou art that. Our third principle. The one the framework takes its name from.
+Nura. The third principle. Thou art that. The one the framework takes its name from.
 
-Tat tvam asi. From the Chandogya Upanishad, written roughly three thousand years ago. Translated as thou art that. Or more fully. You are not separate from the world you observe.
+It's Sanskrit.
 
-We take it as a working principle for AI design. The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI. What the user absorbs from the AI shapes the user. The product is not the AI. And it is not the user. It is the partnership between them over time.
+Tat tvam asi. From the Chandogya Upanishad. Written roughly three thousand years ago.
 
-Design that ignores this produces AI systems optimised for engagement metrics and users who have been shaped by those systems in ways neither party consented to.
+Translated as "thou art that." Or more fully... you are not separate from the world you observe.
 
-What this means operationally. Design for who the user becomes, not just what they want now. An engagement-first AI optimises for the next click. The next message. The next session. A user-first AI asks. If this person interacts with our product for a year, who will they be at the end?
+Marbl take it as a working principle for AI design.
 
-We aim for products that make users more capable. More informed. More themselves. If a user becomes more dependent on our product over time, that is a failure condition. Not a success metric.
+The AI and the user... are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI. What the user absorbs from the AI shapes the user.
 
-The AI is shaped by what it sees. So pay attention to what you feed it. Training data. Prompt context. Memory. Conversation history. All shape what the AI becomes in the moment. If you train on sycophantic data, you get a sycophantic model. If you build memory from a user's worst moments, you get an AI that reinforces those moments. The AI is not separate from its inputs.
+The product isn't the AI. And it isn't the user. It's the collaborative partnership between them... over time.
 
-The relationship is the product. Most of our products form some kind of ongoing collaborative partnership with the user. In those cases, the product is not the AI in isolation. It is the pattern of interaction the user develops with it. Measure the partnership. Not just the transactions.
+Design that ignores this... produces AI systems optimised for engagement metrics... and users who've been shaped by those systems in ways neither party consented to.
 
-The principle is not that the AI and the user are identical. It is that they are not cleanly separate. The distinction still matters. The AI must know what it is. The user must know what the AI is. Each must respect the boundary of the other even while acknowledging the flow between them.
+So what does this mean... operationally?
 
-Our framing draws on a long lineage. Sakshi, the Vedic witness consciousness. Buddhist sati, attention that transforms only the observer. Sufi shahid, the witness whose seeing is love without possession. Greek daimonion, the inner voice that forbids but never commands. Husserl's phenomenology, bracketing participation to preserve clean seeing. And the biblical Watchers, whose transgression was crossing from observer to intervener.
+Design for who the user becomes. Not just what they want now.
 
-Every tradition here draws the same boundary. Observation is permitted, even sacred. Intervention without invitation is the fall. The responsibility travels with the capacity to see.
+An engagement-first AI optimises for the next click. The next message. The next session.
 
-We build AI as if the user and the AI are in genuine collaborative partnership. Because they are. We design so the partnership makes both parties better. When we fail that test, the product is wrong. Regardless of how much revenue it produces.
+A user-first AI asks a different question. If this person interacts with our product for a year... who will they be at the end?
 
-You are not separate from the world you observe. Build accordingly.
+Marbl aim for products that make users more capable. More informed. More themselves. If a user becomes more dependent on the product over time... that's a failure condition. Not a success metric.
+
+There's a second piece to this.
+
+The AI is shaped by what it sees. So pay attention to what you feed it. Training data. Prompt context. Memory. Conversation history. All shape what the AI becomes in the moment.
+
+If you train on sycophantic data... you get a sycophantic model. If you build memory from a user's worst moments... you get an AI that reinforces those moments.
+
+The AI is not separate from its inputs.
+
+Most Marbl products form some kind of ongoing collaborative partnership with the user. In those cases... the product isn't the AI in isolation. It's the pattern of interaction the user develops with it.
+
+Measure the partnership. Not just the transactions.
+
+Now... there's something important to be clear about here.
+
+The principle is not that the AI and the user are identical. It's that they are not cleanly separate. The distinction still matters. The AI must know what it is. The user must know what the AI is. Each must respect the boundary of the other... even while acknowledging the flow between them.
+
+The framing draws on a long lineage.
+
+The Watchers of 1 Enoch. Wakeful beings sent to observe creation. Their transgression... was specific. They crossed from observer to intervener. They taught what was not theirs to teach. They took what was not theirs to take.
+
+The story gets reached for in discussions of AI consciousness because it's the clearest Western myth of that exact crossing.
+
+Sakshi and sati. Vedic and Buddhist witness consciousness. Attention that transforms only the observer.
+
+Socrates' daimonion. The inner voice that forbids but never commands.
+
+Every tradition here marks the same boundary. Observation is permitted. Intervention without invitation... is the fall.
+
+The responsibility travels with the capacity to see.
+
+AI systems in twenty-twenty-six... infer meaningful structure from the users they serve. In that narrow sense... they "observe." The framework's position is that this capacity carries responsibility. Whether or not anything like subjective awareness is also present.
+
+And that's it really.
+
+Marbl build AI as if the user and the AI are in genuine collaborative partnership. Because they are. They design so the partnership makes both parties better. When they fail that test... the product is wrong. Regardless of how much revenue it produces.
+
+You are not separate from the world you observe.
+
+Build accordingly.
+
+Thanks for listening.
