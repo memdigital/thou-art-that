@@ -71,6 +71,19 @@ Three reasons it may be useful:
 
 **[NOTICE.md](./NOTICE.md)** formal disclaimers. Read before doing anything with this.
 
+## Reference material
+
+- **[GLOSSARY.md](./GLOSSARY.md)** - vocabulary the framework uses with specific meanings
+- **[FAQ.md](./FAQ.md)** - frequently asked questions (with community [Discussions](https://github.com/memdigital/thou-art-that-framework/discussions) for the rest)
+- **[FURTHER-READING.md](./FURTHER-READING.md)** - curated sources that shaped the framework
+- **[docs/weaknesses.md](./docs/weaknesses.md)** - honest self-critique of our own framework
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)** - how to engage, what we welcome, what we push back on
+- **[CITATION.cff](./CITATION.cff)** - how to cite this piece in research
+
+## Audio
+
+Nura-narrated summaries of the core pieces, each 3 to 4 minutes. See **[audio/README.md](./audio/README.md)** for the track list and listening order.
+
 ## Do not copy this as is
 
 If you read something here that speaks to your situation, you will still need to do the work yourself. Copy-pasting another company's ethics document into yours produces a veneer, not a practice. What lives inside these files is downstream of specific conversations, specific failures, and a specific working partnership. Your context will differ. Your language should differ.
