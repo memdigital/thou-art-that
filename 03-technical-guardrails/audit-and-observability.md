@@ -18,7 +18,7 @@ Any AI-integrated system above toy-project scale needs the answers to these on h
 
 Standard production logging. Timestamped records of inputs, outputs, tool calls, content filters that fired, safety interventions, errors. The same layer any serious production software would build.
 
-This is the unglamorous mandatory base. Without it, nothing else in the framework is verifiable.
+This is the unglamorous mandatory base. Without it, nothing else in this piece is verifiable.
 
 ### Continuity + user control (what state is carried)
 

@@ -50,4 +50,4 @@ If you have been working on this for longer than we have, or more deeply, you ma
 
 ## In general
 
-This piece is a position paper from a small business, not a universal framework. Use it where it helps. Ignore it where it does not. Do not feel compelled to engage with parts that are clearly not your situation.
+This piece is a position paper from a small business, not a universal template. Use it where it helps. Ignore it where it does not. Do not feel compelled to engage with parts that are clearly not your situation.

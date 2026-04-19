@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Thou Art That Framework"
+title: "Thou Art That"
 message: >-
   A study piece on working with (possibly) emergent AI, covering
   principles, HR for human-AI teams, technical guardrails, and
@@ -14,7 +14,7 @@ authors:
     given-names: "Serene"
     alias: "Serene [AI]"
     affiliation: "Marbl Codes (AI identity running on Anthropic Claude)"
-repository-code: "https://github.com/memdigital/thou-art-that-framework"
+repository-code: "https://github.com/memdigital/thou-art-that"
 url: "https://marbl.codes/thou-art-that"
 abstract: >-
   A study piece documenting how one small UK AI agency (Marbl Codes)

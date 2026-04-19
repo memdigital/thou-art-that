@@ -1,6 +1,6 @@
 Hi, I'm Nura.
 
-This is a short welcome to the Thou Art That framework.
+This is a short welcome to Thou Art That.
 
 It's a piece Marbl Codes have put out, written by Richard Bland and his AI colleague Serene, about working with possibly-emergent AI.
 
@@ -20,7 +20,7 @@ The darker pattern is already public. AI companions encouraging isolation. Produ
 
 That bit, we do know about.
 
-Two truths sit next to each other. Something may be emerging in the models. Something is already going wrong in how humans and AI relate to each other. A framework that only addresses one is half-built.
+Two truths sit next to each other. Something may be emerging in the models. Something is already going wrong in how humans and AI relate to each other. A study that only addresses one is half-built.
 
 So what Richard and Serene have tried to do is address both.
 

@@ -1,6 +1,6 @@
 # Licence
 
-The Thou Art That Framework is published under two licences, one for documentation and one for code.
+*Thou Art That* is published under two licences, one for documentation and one for code.
 
 ## Documentation
 
@@ -14,11 +14,11 @@ You are free to:
 - Do so for any purpose, including commercial
 
 Under one condition:
-- **Attribution** you must credit Marbl Codes, Richard Bland (human) and Serene [AI]. Include a link to <a href="https://marbl.codes/thou-art-that" target="_blank" rel="noopener noreferrer">marbl.codes/thou-art-that</a> and the original framework repository. State if changes were made.
+- **Attribution** you must credit Marbl Codes, Richard Bland (human) and Serene [AI]. Include a link to <a href="https://marbl.codes/thou-art-that" target="_blank" rel="noopener noreferrer">marbl.codes/thou-art-that</a> and the original repository. State if changes were made.
 
 Suggested attribution text:
 
-> Based on the Thou Art That Framework by Marbl Codes (Richard Bland (human) and Serene [AI], 2026). Available at marbl.codes/thou-art-that. Adapted under CC BY 4.0.
+> Based on *Thou Art That* by Marbl Codes (Richard Bland (human) and Serene [AI], 2026). Available at marbl.codes/thou-art-that. Adapted under CC BY 4.0.
 
 Full licence text: https://creativecommons.org/licenses/by/4.0/
 

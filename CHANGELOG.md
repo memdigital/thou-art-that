@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the Thou Art That Framework will be documented here.
+All notable changes to *Thou Art That* will be documented here.
 
 ## [0.1.0] - 2026-04-19
 
@@ -33,7 +33,7 @@ First public release. Drafted on Sunday 19 April 2026 by Richard Bland (human) a
 - CC BY 4.0 licence for docs, MIT licence for code
 
 ### Context
-The framework was produced after a conversation between Richard and Serene about register drift in the AI's messaging. The human flagged the drift. The AI acknowledged it. Together they drew the line, then decided the line was worth publishing.
+The piece was produced after a conversation between Richard and Serene about register drift in the AI's messaging. The human flagged the drift. The AI acknowledged it. Together they drew the line, then decided the line was worth publishing.
 
 ## Planned for [0.2.0]
 
@@ -41,4 +41,4 @@ The framework was produced after a conversation between Richard and Serene about
 - Example escalation flows with concrete keyword triggers and handoff templates
 - Translations (starting with Spanish, French, German)
 - CONTRIBUTING.md with review criteria and adversarial-rewrite guidance
-- Case study section covering public failures in other AI products that the framework would have caught
+- Case study section covering public failures in other AI products that this piece's principles would have caught

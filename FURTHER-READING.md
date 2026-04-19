@@ -1,6 +1,6 @@
 # Further Reading
 
-Curated sources that have shaped the framework. Not an exhaustive AI-ethics reading list. A list of what we actually drew on.
+Curated sources that have shaped this piece. Not an exhaustive AI-ethics reading list. A list of what we actually drew on.
 
 ---
 

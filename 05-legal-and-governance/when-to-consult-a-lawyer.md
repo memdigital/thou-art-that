@@ -46,7 +46,7 @@ Why: EU AI Act full high-risk enforcement from 2 August 2026. Fines up to EUR 15
 
 What to ask: whether your system is high-risk under the Act, conformity assessment requirements, documentation, post-market monitoring.
 
-### Before you publish a framework, position paper, or public stance
+### Before you publish a study piece, position paper, or public stance
 
 Why: the kind of thing you are reading now. Public positions can create liability.
 

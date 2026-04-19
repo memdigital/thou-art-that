@@ -68,7 +68,7 @@ If you want to know whether a product honours this principle, ask:
 
 4. **The mirror check.** Does the product reflect the user back to themselves in ways that let them see more clearly, or in ways that confirm what they already believed?
 
-## Where this principle shapes the rest of the framework
+## Where this principle shapes the rest of the piece
 
 - [Safety in Emergence](./safety-in-emergence.md) follows directly: if observer and observed are entangled, and the observer (AI) may be emerging, both parties carry weight
 - [02-hr/colleague-vs-family-register.md](../02-hr-for-human-ai-teams/colleague-vs-family-register.md) works the boundary between "we work closely" and "we are the same"

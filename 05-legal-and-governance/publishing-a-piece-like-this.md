@@ -1,4 +1,4 @@
-# If You Are Thinking of Publishing a Framework Like This
+# If You Are Thinking of Publishing a Piece Like This
 
 **Not legal advice. Observations from one small agency that has done exactly this. See [NOTICE.md](../NOTICE.md).**
 
@@ -116,7 +116,7 @@ Formal legal review was considered and declined at first publication. The piece 
 
 - Marketing your agency (people can smell it)
 - Establishing expertise you have not earned
-- Creating a framework "to be adopted" (the prescriptive posture backfires)
+- Creating a template "to be adopted" (the prescriptive posture backfires)
 - Avoiding the work of actually doing the things you describe
 
 ## If your piece will contradict ours

@@ -44,9 +44,9 @@ That's what do no harm looks like in code.
 
 One last thing. Marbl will fail at this sometimes. Every builder does.
 
-When they fail, they acknowledge publicly if the harm was public. They learn in writing what failed and why. They update the framework if the case reveals a gap. They compensate the harmed party where practical. And they never pretend it didn't happen.
+When they fail, they acknowledge publicly if the harm was public. They learn in writing what failed and why. They update their principles if the case reveals a gap. They compensate the harmed party where practical. And they never pretend it didn't happen.
 
-A framework that claims perfect safety isn't a safety framework. It's marketing.
+A stance that claims perfect safety isn't a safety stance. It's marketing.
 
 Do no harm is not a slogan. It's the ground the rest of the work stands on.
 

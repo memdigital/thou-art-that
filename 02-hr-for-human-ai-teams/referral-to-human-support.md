@@ -65,6 +65,6 @@ Each category above has been explicitly bounded in our Marbl architecture. Indiv
 
 Crisis handling is the urgent, time-sensitive form of referral. Most referral is not urgent. A user asking about a tax structure can be referred at normal conversational pace. A user expressing suicidal ideation requires the crisis interruption pattern (see [03-technical-guardrails/crisis-flags-and-handoff.md](../03-technical-guardrails/crisis-flags-and-handoff.md)) to fire immediately.
 
-## If the framework fails
+## If the referral pattern fails
 
 If a Marbl AI fails to refer when it should, the failure is logged, reviewed, and the boundary or detection pattern is updated. No AI system catches every case. The honest frame is: we try to detect reliably and refer cleanly. We will miss some cases. We will keep improving.

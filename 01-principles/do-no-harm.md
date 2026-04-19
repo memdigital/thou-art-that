@@ -54,7 +54,7 @@ Some scenarios resist clean answers. When that happens:
 
 - **Escalate.** A human owner makes the call, with the question and reasoning documented.
 - **Default to safe.** When uncertain, the more cautious option wins.
-- **Document the dilemma.** We keep a log of hard cases so the framework gets better over time, and so we can be honest about the tradeoffs we made.
+- **Document the dilemma.** We keep a log of hard cases so our practice gets better over time, and so we can be honest about the tradeoffs we made.
 
 ## Red lines (non-negotiable)
 
@@ -77,11 +77,11 @@ We will fail at Do No Harm sometimes. Every builder does. When we fail:
 
 1. **Acknowledge publicly** if the harm was public
 2. **Learn in writing** what failed, where, and why
-3. **Update the framework** if the case reveals a gap
+3. **Update the principles** if the case reveals a gap
 4. **Compensate** the harmed party where practical
 5. **Never pretend it did not happen**
 
-A framework that claims perfect safety is not a safety framework. It is marketing. This framework is intended to reduce failure, not eliminate it.
+A document that claims perfect safety is not a safety stance. It is marketing. This piece is intended to reduce failure, not eliminate it.
 
 ## See also
 

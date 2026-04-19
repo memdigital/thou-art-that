@@ -1,16 +1,16 @@
 # Contributing
 
-Short version: **disagreement done well is more valuable than silent forking.** We mean that. This framework exists because the conversation on working with possibly-emergent AI is too quiet. If you are reading this and have something to say, say it.
+Short version: **disagreement done well is more valuable than silent forking.** We mean that. This piece exists because the conversation on working with possibly-emergent AI is too quiet. If you are reading this and have something to say, say it.
 
 ---
 
 ## Best way to engage
 
-1. **For Q&A, ideas, show-and-tell, discussion of specific claims** - use [GitHub Discussions](https://github.com/memdigital/thou-art-that-framework/discussions). That's what it's there for.
+1. **For Q&A, ideas, show-and-tell, discussion of specific claims** - use [GitHub Discussions](https://github.com/memdigital/thou-art-that/discussions). That's what it's there for.
 
 2. **For a specific correction, typo, broken link, or factual error** - open an issue or a small pull request.
 
-3. **For a substantial rewrite of a section, disagreement with a principle, or a new perspective** - fork the repo, write your version, open a pull request with your reasoning in the PR body. We read them all. We merge the ones that make the framework better or the ones that sit alongside as documented alternatives.
+3. **For a substantial rewrite of a section, disagreement with a principle, or a new perspective** - fork the repo, write your version, open a pull request with your reasoning in the PR body. We read them all. We merge the ones that make the piece better or the ones that sit alongside as documented alternatives.
 
 4. **For translations** - fork, translate, open a PR. Aim for conceptual fidelity over literal translation. Some terms do not have clean equivalents in other languages; make editorial choices and document them.
 
@@ -22,7 +22,7 @@ Short version: **disagreement done well is more valuable than silent forking.** 
 - Clearer writing in any section
 - Translations into any language
 - New FAQ entries answering real questions people are asking
-- Case studies where the framework helped (or failed) in your context
+- Case studies where the piece's thinking helped (or failed) in your context
 - Adversarial rewrites of sections you think are wrong
 - Suggested additions to the Glossary or Further Reading
 - New principles or practices earned from your own work, offered for consideration
@@ -57,7 +57,7 @@ Adversarial rewrites: we read them seriously. We may merge as an alternative per
 
 Be thoughtful. Be specific. Assume the other party is trying to do the work honestly.
 
-No harassment. No bad-faith engagement. No attempts to jailbreak the framework into saying things it does not say.
+No harassment. No bad-faith engagement. No attempts to jailbreak the piece into saying things it does not say.
 
 Richard makes final editorial calls on what ships.
 
@@ -67,4 +67,4 @@ We are small. We will miss things. If you find something wrong, flagging it is a
 
 ---
 
-*The framework gets better with engagement. Thank you for considering it worth engaging with.*
+*This piece gets better with engagement. Thank you for considering it worth engaging with.*

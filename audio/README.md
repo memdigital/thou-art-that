@@ -40,7 +40,7 @@ What this is, why it exists.
 
 ## About the narration
 
-Narrated by **Nura**, a voice persona we use across Marbl products. Nura is a warm British female voice with a conversational, curious tone - the "friend who just found something interesting and wants to tell you about it." For this framework she is in her reflective mode, slowed from her usual bright default because the material sits heavier than a daily digest.
+Narrated by **Nura**, a voice persona we use across Marbl products. Nura is a warm British female voice with a conversational, curious tone - the "friend who just found something interesting and wants to tell you about it." For this piece she is in her reflective mode, slowed from her usual bright default because the material sits heavier than a daily digest.
 
 Voice technology: <a href="https://elevenlabs.io" target="_blank" rel="noopener noreferrer">ElevenLabs</a> text-to-speech. Voice model and settings are internal to our stack.
 
@@ -50,7 +50,7 @@ The written narration scripts are in `/narrations/`. The generated audio files s
 
 00 first if you are new to the piece. After that, the four principles stand alone - take them in the order that interests you.
 
-If you only listen to one, pick 04 (Safety in Emergence). That is the principle that produced the rest of the framework.
+If you only listen to one, pick 04 (Safety in Emergence). That is the principle that produced the rest of the piece.
 
 ## Total runtime
 

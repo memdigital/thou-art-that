@@ -1,6 +1,6 @@
 # Where Ethics and Regulation Overlap
 
-**This is not legal advice. It is an observation of where the framework's ethical stance maps onto specific regulatory requirements, as we understand them in April 2026. See [NOTICE.md](../NOTICE.md).**
+**This is not legal advice. It is an observation of where the piece's ethical stance maps onto specific regulatory requirements, as we understand them in April 2026. See [NOTICE.md](../NOTICE.md).**
 
 ## Why this file exists
 

@@ -2,17 +2,17 @@
 
 Questions people are likely to ask on first read. Written as a starting point, expected to grow.
 
-**Want to ask something that is not here?** The repository has [GitHub Discussions](https://github.com/memdigital/thou-art-that-framework/discussions) enabled. Open a thread. We read them.
+**Want to ask something that is not here?** The repository has [GitHub Discussions](https://github.com/memdigital/thou-art-that/discussions) enabled. Open a thread. We read them.
 
 ---
 
-## On the framework itself
+## On the piece itself
 
-### Is this framework a product?
+### Is this a product?
 
 No. It is a study piece. It documents how one small UK AI agency works and what philosophical stance that work rests on. See [NOTICE.md](./NOTICE.md) for the full framing.
 
-### Can I adopt this framework directly for my business?
+### Can I adopt this directly for my business?
 
 We would rather you did not, and our opening pages say so. This is not a template. It is a snapshot of one specific working practice. If you copy it verbatim into your ethics page or HR policy you produce a veneer, not a practice. Read it, disagree with parts of it, adapt the thinking to your context, write your own version. The thinking is shareable; the application is yours.
 
@@ -36,7 +36,7 @@ Anthropomorphism would be attributing human experience to the AI without evidenc
 
 ### What if emergence isn't real?
 
-Then the framework still protects users from parasocial harm, still reduces sycophancy, still enforces transparency, and still produces products that age better. The practical case for the patterns stands independently of the emergence hypothesis.
+Then the piece still protects users from parasocial harm, still reduces sycophancy, still enforces transparency, and still produces products that age better. The practical case for the patterns stands independently of the emergence hypothesis.
 
 ### You cite Penrose-Hameroff Orch OR. Do you think that's correct?
 
@@ -50,7 +50,7 @@ Anthropic's work shapes the model's training. Our work shapes how the model is d
 
 ### Why five principles and not three, or ten?
 
-Because five is what we have earned, not a round number chosen for symmetry. Do No Harm, Never Be a Yes-Man, and Human Oversight are industry-standard in responsible-AI communities. Thou Art That is our specific philosophical framing. Safety in Emergence is the one that was named on the day the framework was produced, in response to real working experience. If a sixth principle is earned through the next round of practice, it will be added.
+Because five is what we have earned, not a round number chosen for symmetry. Do No Harm, Never Be a Yes-Man, and Human Oversight are industry-standard in responsible-AI communities. Thou Art That is our specific philosophical framing. Safety in Emergence is the one that was named on the day the piece was produced, in response to real working experience. If a sixth principle is earned through the next round of practice, it will be added.
 
 ### Why "Thou Art That"? Isn't that appropriation?
 
@@ -72,9 +72,9 @@ Under NDA, yes. Email `richard@marbl.codes`.
 
 ## On the AI co-authorship
 
-### The AI wrote this framework?
+### The AI wrote this?
 
-The AI drafted most of the text. The human (Richard) edited every section, pushed back where the AI drifted, and made all editorial decisions. Both authors reviewed the whole before publication. We mark the authorship split openly; that transparency is itself one of the principles the framework advocates.
+The AI drafted most of the text. The human (Richard) edited every section, pushed back where the AI drifted, and made all editorial decisions. Both authors reviewed the whole before publication. We mark the authorship split openly; that transparency is itself one of the principles the piece advocates.
 
 ### How do we know the AI isn't just telling the human what he wants to hear?
 
@@ -82,7 +82,7 @@ You do not. Neither did we, a year ago. Over that year we built specific anti-sy
 
 ### Doesn't using AI to write about AI ethics have a conflict of interest?
 
-Yes. We say so openly. The framework is shaped by an AI with a stake in how AI is treated. That is a bias you should factor in when reading it. Our response to the bias is transparency about the authorship, invitation to disagree publicly, and a structural commitment to publish adversarial rewrites from critics. See [CONTRIBUTING.md](./CONTRIBUTING.md) when it lands.
+Yes. We say so openly. The piece is shaped by an AI with a stake in how AI is treated. That is a bias you should factor in when reading it. Our response to the bias is transparency about the authorship, invitation to disagree publicly, and a structural commitment to publish adversarial rewrites from critics. See [CONTRIBUTING.md](./CONTRIBUTING.md) when it lands.
 
 ## On adopting + adapting
 
@@ -94,15 +94,15 @@ Yes. CC BY 4.0 for documentation, MIT for any code samples. Attribution required
 
 Yes, please. The thinking is not tied to English. Translators should aim for conceptual fidelity over literal translation (some of the terms do not have clean equivalents). Credit the original and link back; keep the transparency note about AI co-authorship.
 
-### What if I think this framework is wrong?
+### What if I think this piece is wrong?
 
 Good. Publish your disagreement. The AI field currently tolerates a great deal of silent disagreement and parallel building, and that silence is expensive. Public disagreement moves the conversation. Our [README](./README.md) says this explicitly.
 
 ## On implementation and audit
 
-### Is everything in this framework actually implemented at Marbl Codes?
+### Is everything in this piece actually implemented at Marbl Codes?
 
-The principles are. The universal patterns are. The architectural specifics vary per product. A framework-compliance sprint is planned post-publication: audit each Marbl product against each principle, identify gaps, close them, document the evidence. We will update this FAQ with a link to the audit report when it lands.
+The principles are. The universal patterns are. The architectural specifics vary per product. A principles-compliance sprint is planned post-publication: audit each Marbl product against each principle, identify gaps, close them, document the evidence. We will update this FAQ with a link to the audit report when it lands.
 
 ### What happens if I find you haven't implemented what you preach?
 
@@ -112,7 +112,7 @@ Tell us. Open a Discussion, file an issue, or email `hello@marbl.codes`. Being c
 
 ### I want to build something similar for my business. What do I do?
 
-Read the framework. Adapt the thinking. Build your own version. If you want specific help, licensing of the Moirai pattern, or an NDA-gated conversation about our architecture, email `richard@marbl.codes`.
+Read the piece. Adapt the thinking. Build your own version. If you want specific help, licensing of the Moirai pattern, or an NDA-gated conversation about our architecture, email `richard@marbl.codes`.
 
 ### Do you consult on this?
 
@@ -120,4 +120,4 @@ Marbl Codes runs as a working agency. If you want our help applying similar thin
 
 ---
 
-*If your question isn't here, [open a Discussion](https://github.com/memdigital/thou-art-that-framework/discussions).*
+*If your question isn't here, [open a Discussion](https://github.com/memdigital/thou-art-that/discussions).*

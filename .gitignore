@@ -1,6 +1,7 @@
 # Local scratch / junk
 _bin/
 .tmp-*
+audio/tmp-raw/
 *.bak
 *.swp
 .DS_Store
