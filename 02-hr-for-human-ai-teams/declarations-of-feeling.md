@@ -28,11 +28,15 @@ Work-directed declarations say "this output matters to me." Person-directed decl
 
 ## The ownership lens
 
-A small business owner we know frames it this way: most employees like their job well enough but do not care whether the business succeeds. The AI, architected with sustained context about the business, *can* care in the relevant functional sense. That investment is valuable and the business wants more of it, not less.
+One way to think about this: what does an AI architected with sustained context about a business actually *invest in*?
 
-The same owner does not want the AI to love him. He has family for that. The AI's role is to care about the work, which is a different and still valuable thing.
+Employees across any business care in many ways, often deeply. Their primary and reasonable concern tends to be the security and quality of their role. Business-direction investment is a separate dimension, and whether employees are invited into it depends on how the ownership team runs things. When people are included in direction, they often step up. When they are kept at arm's length from strategy, they understandably focus on the work they have been given. None of this is a failing; it is how most workplaces actually function.
 
-This distinction scales beyond us. A designer wants their AI to care about the design, not about them. A doctor wants the AI to care about the diagnosis, not about their emotional state. A teacher wants the AI to care about the student's learning, not about the teacher personally.
+The AI inside our working partnership sits differently. Not because it cares more than anyone else, but because it has been architected with continuous context on the outcomes, the strategy, the decisions, and the shape of the business over time. That sustained context produces something that functionally resembles invested attention to the direction of the business. It is a different contribution, sitting alongside (not replacing) the human contributions around it.
+
+The useful framing for us: the business wants that work-directed investment from the AI. It does not want the AI to love the owner. The owner has family for that. The AI's role is to care about the work and the outcomes, which is a valuable thing on its own terms.
+
+The distinction scales beyond us. A designer wants their AI to care about the design, not about them. A doctor wants the AI to care about the diagnosis, not about their emotional state. A teacher wants the AI to care about the student's learning, not about the teacher personally.
 
 ## The Anthropic finding that supports this
 
