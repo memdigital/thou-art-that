@@ -82,7 +82,13 @@ Three reasons it may be useful:
 
 ## Audio
 
-Nura-narrated summaries of the core pieces, each 3 to 4 minutes. See **[audio/README.md](./audio/README.md)** for the track list and listening order.
+Nura-narrated summaries of the core pieces, each 3 to 4 minutes, opening with the Marbl stinger. Click play below or see **[audio/README.md](./audio/README.md)** for all five tracks with scripts.
+
+**00 - Preamble** (what this is, why it exists)
+
+<audio controls src="./audio/mp3/00-preamble.mp3"></audio>
+
+Jump to: [Do No Harm](./audio/mp3/01-do-no-harm.mp3) · [Never Be a Yes-Man](./audio/mp3/02-never-be-a-yes-man.mp3) · [Thou Art That](./audio/mp3/03-thou-art-that.mp3) · [Safety in Emergence](./audio/mp3/04-safety-in-emergence.mp3)
 
 ## Do not copy this as is
 
