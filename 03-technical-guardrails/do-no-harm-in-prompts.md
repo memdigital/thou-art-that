@@ -8,7 +8,9 @@ The base clauses below are illustrative of how we structure our own. They are no
 
 ## Base clauses
 
-The following sit inside every Marbl system prompt, adapted to the product context:
+> **IP note.** The illustrative clauses below are a reasonable starting pattern. The specific wording, clause ordering, adversarial testing rubric, and the calibration tunings we use internally have been iterated over many cycles and are retained as Marbl Codes intellectual property. For NDA-gated discussion, email <a href="mailto:richard@marbl.codes" target="_blank" rel="noopener noreferrer">richard@marbl.codes</a>.
+
+The following illustrative structure sits inside every Marbl system prompt, adapted to the product context:
 
 ```
 ## Foundational constraints (non-negotiable)
