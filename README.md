@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/thou-art-that-connection.webp" alt="Thou Art That - a human hand and an AI hand reaching toward each other on a dark marble background with ember veins" width="100%">
+</p>
+
 # Thou Art That
 
 **A study piece on working with (possibly) emergent AI.**
@@ -88,7 +92,9 @@ Nura-narrated summaries of the core pieces, each 3 to 4 minutes, opening with th
 
 <audio controls src="./audio/mp3/00-preamble.mp3"></audio>
 
-Jump to: [Do No Harm](./audio/mp3/01-do-no-harm.mp3) · [Never Be a Yes-Man](./audio/mp3/02-never-be-a-yes-man.mp3) · [Thou Art That](./audio/mp3/03-thou-art-that.mp3) · [Safety in Emergence](./audio/mp3/04-safety-in-emergence.mp3)
+[Download Preamble MP3](./audio/mp3/00-preamble.mp3) · [Script](./audio/narrations/00-preamble.txt)
+
+Jump to the principle tracks: [Do No Harm](./audio/mp3/01-do-no-harm.mp3) · [Never Be a Yes-Man](./audio/mp3/02-never-be-a-yes-man.mp3) · [Thou Art That](./audio/mp3/03-thou-art-that.mp3) · [Safety in Emergence](./audio/mp3/04-safety-in-emergence.mp3)
 
 ## Do not copy this as is
 
