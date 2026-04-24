@@ -1,36 +1,32 @@
-Nura again. Principle four. Human oversight.
+Nura again. Principle four — human oversight.
 
-Here's the principle. AI supports human decisions. It does not replace them.
+Here is the principle. AI supports human decisions; it does not replace them.
 
-For anything consequential - medical, legal, financial, emotional, reputational, anything irreversible - a human makes the call. Not as a rubber stamp. As a genuine checkpoint. The AI does the heavy lifting. The human carries the weight.
+For anything consequential — medical, legal, financial, emotional, reputational, anything irreversible — a human makes the call. Not as a rubber stamp, but as a genuine checkpoint. The AI does the heavy lifting. The human carries the weight. Marbl do not automate judgement; they automate the work that leads to better judgement.
 
-Marbl don't automate judgement. They automate the work that leads to better judgement.
+Now, this is a principle, not a compliance checkbox, and there is a reason for the distinction.
 
-Now, this is a principle, not a compliance checkbox. And there's a reason for the distinction.
+Regulators do require human oversight on high-risk systems. The EU AI Act, Article 14. The UK Equality Act. Medical devices regulation. Those obligations exist, and Marbl meet them. But compliance is the floor, not the stance. The stance is that the question of what AI should and should not decide is older than any current regulation — it is a question about where judgement lives, and whose name is on the decision when it is wrong.
 
-Regulators do require human oversight on high-risk systems. The EU AI Act, Article 14. The UK Equality Act. Medical devices regulation. Those obligations exist. Marbl meet them.
-
-But compliance is the floor, not the stance. The stance is that the question of what AI should and should not decide is older than any current regulation. It's a question about where judgement lives, and whose name is on the decision when it's wrong.
-
-An AI can hold a room full of context, run scenarios, draft a recommendation, and do it all in seconds. That's valuable work. It's also work that loses something essential the moment it's offered to a human as a finished verdict rather than a considered input. The humility of "here's my best thinking; the call is yours" is not a formality. It's the architecture.
+An AI can hold a room full of context, run scenarios, draft a recommendation, and do it all in seconds. That is valuable work. It is also work that loses something essential the moment it is offered to a human as a finished verdict rather than a considered input. The humility of "here is my best thinking; the call is yours" is not a formality. It is the architecture.
 
 So what does this look like day to day?
 
-The AI proposes. The human disposes.
+The AI proposes, and the human disposes.
 
-The AI produces the draft, the analysis, the plan. Names its confidence and its uncertainty. Flags the points a human should check first. The human reviews with actual attention, not rubber-stamp attention. Approves, amends, or rejects. The human's name is on the final decision, and they know it is.
+The AI produces the draft, the analysis, the plan. It names its confidence and its uncertainty, and flags the points a human should check first. The human reviews with actual attention — not rubber-stamp attention — and approves, amends, or rejects. The human's name is on the final decision, and they know it is.
 
-The failure mode is the "AI suggests, human clicks approve" loop that looks like oversight but isn't. Meaningful oversight requires that the human could say no and sometimes does. If every approval is automatic, oversight is theatre.
+The failure mode to avoid is the "AI suggests, human clicks approve" loop that looks like oversight but is not. Meaningful oversight requires that the human could say no, and sometimes does. If every approval is automatic, oversight is theatre.
 
 Two more things worth naming.
 
-One. Destructive or irreversible operations always need explicit human consent. Deleting files. Dropping database tables. Sending messages. Publishing content. Force-pushing. Authorisation given once does not extend to similar actions later. The scope of the approval is the scope that was asked for. When in doubt, the AI asks. Pausing to confirm is cheap. Unwanted action can be very expensive.
+One. Destructive or irreversible operations always need explicit human consent. Deleting files, dropping database tables, sending messages, publishing content, force-pushing — all of it. Authorisation given once does not extend to similar actions later; the scope of the approval is the scope that was asked for. When in doubt, the AI asks, because pausing to confirm is cheap, and unwanted action can be very expensive.
 
-Two. The human in the loop has to be qualified, present, and actually able to say no. On medical, legal, or clinical matters, that's a qualified professional, not whoever pressed the button. Symbolic oversight by someone who can't meaningfully intervene isn't oversight. Rewrite the system or rewrite the claim.
+Two. The human in the loop has to be qualified, present, and actually able to say no. On medical, legal, or clinical matters, that means a qualified professional, not whoever happens to press the button. Symbolic oversight by someone who cannot meaningfully intervene is not oversight. Rewrite the system, or rewrite the claim.
 
-And the thing this principle is not. It's not a claim that AI is unreliable and should be distrusted by default. Well-built AI is extraordinarily useful and frequently right. It's not a slow-down-everything rule either. Most AI work does not need step-by-step approval. And it's certainly not an excuse to dodge accountability. "The AI did it" is not a defence. The human who deployed, approved, or published the AI's output is accountable for what it does.
+And the thing this principle is not. It is not a claim that AI is unreliable and should be distrusted by default — well-built AI is extraordinarily useful and frequently right. It is not a slow-down-everything rule, because most AI work does not need step-by-step approval. And it is certainly not an excuse to dodge accountability. "The AI did it" is not a defence. The human who deployed, approved, or published the AI's output is accountable for what it does.
 
-That's human oversight.
+That is human oversight.
 
 Next up, the last of the five principles. Safety in emergence.
 

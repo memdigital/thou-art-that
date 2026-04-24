@@ -1,52 +1,36 @@
-Nura here. This one's on the first principle. Do no harm.
+Nura here. This one is on the first principle — do no harm. It is not a slogan; it is the foundation.
 
-It's not a slogan. It's the foundation.
+Every product Marbl builds begins with one question. Who could this hurt, and what would it take to prevent that? That is the starting line.
 
-Every product Marbl builds begins with one question. Who could this hurt, and what would it take to prevent that?
+And here is the important bit. Do no harm is not risk management. Risk management is a business function, focused on protecting the business — which is fine, but it is a different thing. Do no harm is about the person on the other end of the system. Including the person who has not been met yet; the person who might be vulnerable; the person who will use the product in a state nobody anticipated.
 
-That's it. That's the starting line.
+So when Marbl scope a product, they imagine the person most at risk if something goes wrong. For a trip planner, that is the driver who is exhausted and making bad decisions. For an AI assistant, it is the user in crisis reaching for anything that sounds human. For a content pipeline, it is the reader who will believe what gets published because the brand carries weight.
 
-And here's the important bit. This isn't risk management. Risk management is a business function, focused on protecting the business. Do no harm is about the person on the other end of the system.
-
-Including the person who has not been met yet. The person who might be vulnerable. The person who will use the product in a state nobody anticipated.
-
-So when Marbl scope a product, they imagine the person most at risk if something goes wrong.
-
-For a trip planner, that's the driver who's exhausted and making bad decisions. For an AI assistant, that's the user in crisis reaching for anything that sounds human. For a content pipeline, that's the reader who'll believe what gets published because the brand carries weight.
-
-The question is never "what does the average user need." The question is "what happens to the vulnerable user if the system misbehaves."
-
-Build for the vulnerable. The average user is automatically covered.
+The question is never "what does the average user need." The question is always "what happens to the vulnerable user if the system misbehaves." Build for the vulnerable, and the average user is automatically covered.
 
 Right. So what about features that could cause harm?
 
-The default is not to ship them. Features with harm potential only ship when the harm pathway has been identified, mitigated, and tested. If you can't name the mitigation, you don't ship. If the mitigation is "the user will probably not do X," you don't ship.
+The default is simple — they do not ship. Features with harm potential only ship once the harm pathway has been identified, mitigated, and tested. If you cannot name the mitigation, you do not ship. If the mitigation is "the user will probably not do X," you do not ship either.
 
-And this one's important. Safety guardrails are not features to balance against convenience. Marbl don't remove a guardrail because it inconveniences the majority. Guardrails exist for the minority who need them. The majority's experience is shaped by everything else the product does.
+And this one is important. Safety guardrails are not features to balance against convenience. Marbl do not remove a guardrail because it inconveniences the majority, because guardrails exist for the minority who need them. The majority's experience is shaped by everything else the product does.
 
-There's a pattern that sits underneath all of this. It's called the crisis-interruption pattern.
+Underneath all of this sits a pattern Marbl call the crisis-interruption pattern. For any AI product that bonds with users — voice assistant, coach, companion, chat — the pattern goes like this.
 
-For any AI product that bonds with users, voice assistant, coach, companion, chat, the pattern goes like this.
+First, detect. Monitor for crisis language: self-harm, violence toward others, acute distress.
 
-Detect. Monitor for crisis language. Self-harm, violence toward others, acute distress.
+Then interrupt. Stop the AI's normal conversation flow the moment a threshold is crossed.
 
-Interrupt. Stop the AI's normal conversation flow.
+Then refuse to profit. If the user is in a paid session, stop charging.
 
-Refuse to profit. If the user's in a paid session, stop charging.
+Then hand off to real help — country-appropriate crisis support links and numbers, surfaced prominently, never buried at the bottom of a page.
 
-Handoff to real help. Country-appropriate crisis resources. UK, Samaritans 116 123. US, 988. Not buried links. Prominent.
+And finally, log. Record the event for review, so the system learns from real-world triggers and keeps improving.
 
-And log. Record the event for review, so the system learns.
+Theia, the celestial connection product Marbl built, implements this exact pattern. If a user reaches the product in their darkest moment, the reading stops, the money is refunded, and they are directed to real human support. That is what do no harm looks like in code.
 
-Theia, the celestial connection product Marbl built, implements this exact pattern. If a user reaches the product in their darkest moment, the reading stops. Their money is refunded. They are directed to real human support.
+One last thing. Marbl will fail at this sometimes, because every builder does. When they do, they acknowledge publicly if the harm was public. They learn in writing what failed, and why. They update their principles if the case reveals a gap. They compensate the harmed party where practical. And they never, ever, pretend it did not happen.
 
-That's what do no harm looks like in code.
-
-One last thing. Marbl will fail at this sometimes. Every builder does.
-
-When they fail, they acknowledge publicly if the harm was public. They learn in writing what failed and why. They update their principles if the case reveals a gap. They compensate the harmed party where practical. And they never pretend it did not happen.
-
-A stance that claims perfect safety is not a safety stance. It is marketing. And you have read enough of those.
+A stance that claims perfect safety is not a safety stance — it is marketing. And you have read enough of those.
 
 Do no harm is not a slogan. It is the ground the rest of the work stands on.
 

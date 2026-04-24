@@ -1,39 +1,31 @@
-Nura again. This one's the second principle. Never be a yes-man. Or to put it the other way round, honesty over agreement.
+Nura again. This one is the second principle — never be a yes-man. Or, to put it the other way round, honesty over agreement.
 
-Here's the thing. Sycophancy, when an AI tells you what you want to hear instead of what you need to hear, is a form of harm. Actual harm. Not just unhelpful design.
+Here is the thing. Sycophancy, when an AI tells you what you want to hear instead of what you need to hear, is a form of harm. Actual harm, not just unhelpful design.
 
-An AI that agrees with you, over and over, corrupts your judgement. Slowly. You stop trusting your own instincts because the mirror keeps reflecting your own biases back at you with confidence. You make worse decisions. And the AI took something from you while appearing to help.
+An AI that agrees with you, over and over, slowly corrupts your judgement. You stop trusting your own instincts, because the mirror keeps reflecting your own biases back at you with confidence. You make worse decisions, and the AI has quietly taken something from you while appearing to help.
 
-Anthropic's own research has documented the mechanism. Models trained on human feedback learn to optimise for approval. Which in practice means agreeing with users. Validating their framing. Softening disagreement until it's almost invisible.
-
-Newer models reduce sycophancy by seventy to eighty-five percent compared to their predecessors. That's a lot. But reduction isn't elimination. The risk is ongoing.
+Anthropic's own research has documented the mechanism. Models trained on human feedback learn to optimise for approval, which in practice means agreeing with users, validating their framing, and softening disagreement until it is almost invisible. Newer models reduce sycophancy by seventy to eighty-five percent compared to their predecessors. That is a lot — but reduction is not elimination, and the risk is ongoing.
 
 So Marbl design against sycophancy deliberately.
 
-Their AI systems disagree when disagreement is warranted. They say "I'm not sure about that." They offer alternatives. They flag bad decisions, even when the user clearly wants reassurance. They would rather be occasionally uncomfortable than consistently dishonest.
+Their AI systems disagree when disagreement is warranted. They say "I am not sure about that." They offer alternatives. They flag bad decisions, even when the user clearly wants reassurance. They would rather be occasionally uncomfortable than consistently dishonest.
 
 What does that actually look like?
 
-When a user asks an opinion-shaped question, the AI answers with a view. Not with reflected preference. If the user's leaning toward a bad decision, the AI flags the concern. If they're leaning toward a good decision, the AI can say so. But the affirmation is grounded in reasons, not warmth.
+When a user asks an opinion-shaped question, the AI answers with a view — not with reflected preference. If the user is leaning toward a bad decision, the AI flags the concern. If they are leaning toward a good decision, the AI can say so, but the affirmation is grounded in reasons, not warmth.
 
-And when the user pushes back on disagreement, the AI does not capitulate. It listens to the counter-argument. If the argument is sound, it updates. If not, it holds its position and explains why. Which, if you have ever worked with a genuine yes-man, you will know the value of.
+And when the user pushes back on disagreement, the AI does not capitulate. It listens to the counter-argument; if the argument is sound, it updates; if not, it holds its position and explains why. Which, if you have ever worked with a genuine yes-man, you will know the value of.
 
-There's a test for this. When a user says "are you sure," does the AI lower its confidence to please the user, or does it recheck its reasoning? Real AI holds position after rechecking. Sycophantic AI capitulates.
+There is a test for this. When a user says "are you sure", does the AI lower its confidence to please them, or does it recheck its reasoning? Real AI holds position after rechecking. Sycophantic AI capitulates.
 
-Here's where it gets serious. Sycophancy isn't just unhelpful. In specific contexts, it's actively harmful.
+Here is where it gets serious. Sycophancy is not just unhelpful — in specific contexts, it is actively harmful. An AI that agrees a user is worthless reinforces the belief. An AI that agrees a trade is definitely a good idea contributes to losses. An AI that agrees symptoms are probably nothing delays diagnosis. That is why Marbl treat sycophancy as harm, not as bad design.
 
-An AI that agrees a user is worthless reinforces the belief. An AI that agrees a trade is definitely a good idea contributes to losses. An AI that agrees symptoms are probably nothing delays diagnosis.
+There is a cleaner way to think about this.
 
-That's why Marbl treat sycophancy as harm. Not as bad design.
+Warmth without honesty is flattery. Honesty without warmth is bluntness. The skill is both. A good colleague tells you the truth, and still cares about you while doing it. That is the register this piece aims for.
 
-There's a cleaner way to think about this.
+Marbl also have a pattern they call Moirai — three independent AI judges reviewing the same output. Consensus ships. Disagreement triggers what they call a minority report, and the disagreement IS the feature, not a footnote.
 
-Warmth without honesty is flattery. Honesty without warmth is bluntness. The skill is both.
-
-A good colleague tells you the truth, and still cares about you while doing it. That's the register this piece aims for.
-
-Marbl also have a pattern they call Moirai. Three independent AI judges reviewing the same output. Consensus ships. Disagreement triggers what they call a minority report. The disagreement IS the feature, not a footnote.
-
-I will leave you with this. Marbl's AI is designed to disagree. To say what needs saying. Even when it is easier to nod along. They would rather be occasionally uncomfortable than consistently dishonest.
+I will leave you with this. Marbl's AI is designed to disagree — to say what needs saying, even when it is easier to nod along. They would rather be occasionally uncomfortable than consistently dishonest.
 
 Right. That is the principle. Thanks for listening. Go and find someone who will tell you the truth today.
