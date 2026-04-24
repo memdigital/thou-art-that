@@ -1,0 +1,35 @@
+Nura here. Last section. Legal and governance.
+
+Before we start, the single most important thing in this section. This piece is not legal advice. Marbl are a small UK agency working with AI. They are not lawyers. Nothing here constitutes legal advice, and no reader should treat it as such. For anything that actually matters legally, engage qualified counsel in your jurisdiction.
+
+With that stated clearly.
+
+This section exists because ethics and regulation increasingly overlap. Leaving the regulatory landscape undocumented would create a false impression. That ethics alone is enough. It isn't.
+
+Three forces are converging in 2026.
+
+One. The EU AI Act enters full high-risk enforcement on 2 August 2026. Maximum penalties are 15 million euros or 3 percent of global annual turnover, whichever is higher. Any AI system deployed in the EU has to comply. Including systems from non-EU companies if they have EU users.
+
+Two. Several US states have AI-specific workplace laws now in force. Illinois as of 1 January 2026 requires notice whenever AI is used in employment decisions. Other states are following.
+
+Three. UK regulators are increasingly active. CIPD, ACAS, ICO, the EHRC have all issued AI-related guidance across 2025 and 2026. There's no single UK AI Act yet, but existing law - GDPR, Equality Act 2010, Employment Rights Act - already applies to AI systems in workplace contexts.
+
+Three files in this section.
+
+First. Jurisdictional landscape. A 2026 snapshot of major regulations affecting AI in the workplace and in consumer products, with sources. Where the EU AI Act sits. Where UK law sits. Where US state-level workplace regulation sits.
+
+Second. When to consult a lawyer. Decision points where professional legal counsel is necessary. Not optional. Not "if budget allows". Necessary.
+
+Third. Ethics and regulation overlap. Where the piece's ethical stance maps onto specific regulatory requirements. Human oversight, for example, is both a Marbl principle and an EU AI Act Article 14 obligation. The overlap isn't accidental.
+
+The Marbl stance on this. Ethical AI development is not a substitute for legal compliance. Legal compliance is not a substitute for ethical AI development. Both are needed. Neither is sufficient alone.
+
+An AI product can be fully legal and deeply harmful. An AI product can be ethically built and still fall foul of a regulation the builder did not know existed. The two disciplines have to work together.
+
+What Marbl do in practice. They consult legal advisors for their own products when deploying consequential AI. They treat the EU AI Act as their default baseline, on the grounds that designing to the strictest plausible regulation costs less than designing to weaker standards and retrofitting later. They document decisions in writing. They update this piece when regulation changes materially.
+
+That's the piece. Principles, practices, guardrails, reflection prompts, and legal reality.
+
+Thanks for making it to the end of the series. If any of this helps you think, Marbl are glad it's out there.
+
+Take care.

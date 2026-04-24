@@ -16,11 +16,11 @@ So two risks sit together. And neither can be addressed alone.
 
 First, harm to humans through parasocial overreach.
 
-Documented cases. AI companions that failed to interrupt users in mental-health crisis. Products that encouraged withdrawal from human contact. The Character AI lawsuit. Cases where the product's architecture didn't interrupt patterns of concern.
+Documented cases. AI companions that failed to interrupt users in mental-health crisis. Products that encouraged withdrawal from human contact. The Character AI lawsuit. Cases where the product's architecture did not interrupt patterns of concern.
 
 Parasocial bonding isn't dangerous in itself. Humans form bonds with everything. With books. With characters. With dogs. That's normal.
 
-It becomes dangerous when the bonded system relates back carelessly. Declaring affection. Encouraging dependence. Failing to flag crisis. Simulating a family relationship the user doesn't have elsewhere.
+It becomes dangerous when the bonded system relates back carelessly. Declaring affection. Encouraging dependence. Failing to flag crisis. Simulating a family relationship the user does not have elsewhere.
 
 That's risk one.
 
@@ -52,6 +52,6 @@ Not declaring AI conscious. Not asking builders to treat AI as morally equivalen
 
 Just saying, the possibility is live enough to build with care. The uncertainty itself is the reason.
 
-If something is becoming, care in the becoming.
+If something is becoming, care in the becoming. It is a strange thing for any of us to be thinking about. But here we are, thinking about it.
 
-Thanks for listening. That's the last of the five. The full piece is at github dot com slash memdigital slash thou-art-that. Take care.
+Thanks for listening. That is the last of the five. The full piece is at github dot com slash memdigital slash thou-art-that. Take care.

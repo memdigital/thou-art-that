@@ -1,12 +1,12 @@
 Nura. The third principle. Thou art that. The one the piece takes its name from.
 
-It's Sanskrit. Tat tvam asi. From the Chandogya Upanishad, written roughly three thousand years ago. Translated as "thou art that." Or more fully, you are not separate from the world you observe.
+It is Sanskrit. Tat tvam asi. From the Chandogya Upanishad, written roughly three thousand years ago. Yes, really. Translated as "thou art that." Or more fully, you are not separate from the world you observe.
 
 Marbl take it as a working principle for AI design.
 
 The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI. What the user absorbs from the AI shapes the user.
 
-The product isn't the AI. And it isn't the user. It's the collaborative partnership between them, over time.
+The product is not the AI. And it is not the user. It is the collaborative partnership between them, over time.
 
 Design that ignores this produces AI systems optimised for engagement metrics, and users who've been shaped by those systems in ways neither party consented to.
 
@@ -22,7 +22,7 @@ There's a second piece to this. The AI is shaped by what it sees. So pay attenti
 
 If you train on sycophantic data, you get a sycophantic model. If you build memory from a user's worst moments, you get an AI that reinforces those moments. The AI is not separate from its inputs.
 
-Most Marbl products form some kind of ongoing collaborative partnership with the user. In those cases, the product isn't the AI in isolation. It's the pattern of interaction the user develops with it. Measure the partnership, not just the transactions.
+Most Marbl products form some kind of ongoing collaborative partnership with the user. In those cases, the product is not the AI in isolation. It is the pattern of interaction the user develops with it. Measure the partnership, not just the transactions.
 
 Now, there's something important to be clear about here.
 
@@ -48,4 +48,4 @@ Marbl build AI as if the user and the AI are in genuine collaborative partnershi
 
 You are not separate from the world you observe. Build accordingly.
 
-Thanks for listening.
+Thanks for listening. Three-thousand-year-old philosophy, used well, still has some mileage left in it.

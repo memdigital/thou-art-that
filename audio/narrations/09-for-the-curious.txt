@@ -1,0 +1,25 @@
+Nura again. Section four. For the curious.
+
+A deliberate title choice. Not "for builders". Not "how to adopt". For the curious.
+
+Here's why.
+
+Every organisation building with AI has a specific context. A specific team. A specific product. A specific risk profile. Copying someone else's patterns without adapting them is doing the exact thing this piece cautions against. A veneer, not a practice.
+
+So this section does not give you adoption steps. It gives you questions. Frames. Self-assessment prompts. If you take any of the thinking here and build something with it, the work is yours. The hope is that the questions help you work better, not that the answers travel directly.
+
+Three files sit in this section.
+
+First. Reflection prompts. Questions worth sitting with before committing to an AI architecture choice. Not rhetorical questions. Real ones. If you can't answer "who could this product hurt, and what would it take to prevent that", don't ship yet.
+
+Second. Self-assessment checklist. Questions to ask about an AI product you are shipping or have shipped. Does the product form a bond with users? Does it have a crisis pattern? Does it interrupt profit when the user is in distress? Can you see what it's doing in production?
+
+Third. When our thinking probably does not apply. Honest notes on where this framing may not help. A closed-loop agentic tool in a narrow domain does not need parasocial-prevention architecture. A one-shot batch job does not need drift detection. Not every AI product is a bonded product. Marbl's framing is for the bonded ones.
+
+The invitation at the close. Read what resonates. Ignore what does not. Write your own version. Tell Marbl where they got it wrong.
+
+One more thing. Marbl run a small agency. They don't have infinite time. But if you're building something that grapples with similar questions and you want to compare notes, the public contact is at marbl dot codes. They read messages. They don't promise replies.
+
+Next up, the legal landscape.
+
+Take care.

@@ -16,7 +16,7 @@ What does that actually look like?
 
 When a user asks an opinion-shaped question, the AI answers with a view. Not with reflected preference. If the user's leaning toward a bad decision, the AI flags the concern. If they're leaning toward a good decision, the AI can say so. But the affirmation is grounded in reasons, not warmth.
 
-And when the user pushes back on disagreement, the AI doesn't capitulate. It listens to the counter-argument. If the argument is sound, it updates. If not, it holds its position and explains why.
+And when the user pushes back on disagreement, the AI does not capitulate. It listens to the counter-argument. If the argument is sound, it updates. If not, it holds its position and explains why. Which, if you have ever worked with a genuine yes-man, you will know the value of.
 
 There's a test for this. When a user says "are you sure," does the AI lower its confidence to please the user, or does it recheck its reasoning? Real AI holds position after rechecking. Sycophantic AI capitulates.
 
@@ -34,6 +34,6 @@ A good colleague tells you the truth, and still cares about you while doing it. 
 
 Marbl also have a pattern they call Moirai. Three independent AI judges reviewing the same output. Consensus ships. Disagreement triggers what they call a minority report. The disagreement IS the feature, not a footnote.
 
-I'll leave you with this. Marbl's AI is designed to disagree. To say what needs saying. Even when it's easier to nod along. They would rather be occasionally uncomfortable than consistently dishonest.
+I will leave you with this. Marbl's AI is designed to disagree. To say what needs saying. Even when it is easier to nod along. They would rather be occasionally uncomfortable than consistently dishonest.
 
-Right. That's the principle. Thanks for listening.
+Right. That is the principle. Thanks for listening. Go and find someone who will tell you the truth today.

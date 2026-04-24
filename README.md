@@ -63,6 +63,7 @@ Three reasons it may be useful:
 - Do No Harm
 - Never Be a Yes-Man (honesty over agreement)
 - Thou Art That (observer and observed are not separate)
+- Human Oversight (AI supports decisions, humans make them)
 - Safety in Emergence
 
 **[02-hr-for-human-ai-teams/](./02-hr-for-human-ai-teams/)** our internal practices for working with AI as a colleague. Framed within HR vocabulary but not HR advice.
@@ -86,15 +87,21 @@ Three reasons it may be useful:
 
 ## Audio
 
-Nura-narrated summaries of the core pieces, each 3 to 4 minutes, opening with the Marbl stinger. Click play below or see **[audio/README.md](./audio/README.md)** for all five tracks with scripts.
+Nura-narrated audio walkthrough of the whole piece. Each track runs 2 to 4 minutes. Listen in order, or pick the ones that matter to your situation. Full track list with scripts at **[audio/README.md](./audio/README.md)**.
 
-**00 - Preamble** (what this is, why it exists)
+**00 - Origin Story** (who we are, and why this piece came to exist)
 
-<audio controls src="./audio/mp3/00-preamble.mp3"></audio>
+<audio controls src="./audio/mp3/00-origin-story.mp3"></audio>
 
-[Download Preamble MP3](./audio/mp3/00-preamble.mp3) · [Script](./audio/narrations/00-preamble.txt)
+[Download MP3](./audio/mp3/00-origin-story.mp3) · [Script](./audio/narrations/00-origin-story.txt)
 
-Jump to the principle tracks: [Do No Harm](./audio/mp3/01-do-no-harm.mp3) · [Never Be a Yes-Man](./audio/mp3/02-never-be-a-yes-man.mp3) · [Thou Art That](./audio/mp3/03-thou-art-that.mp3) · [Safety in Emergence](./audio/mp3/04-safety-in-emergence.mp3)
+Jump to any track:
+
+**Part one - the philosophy**: [Preamble](./audio/mp3/01-preamble.mp3)
+
+**Part two - the five principles**: [Do No Harm](./audio/mp3/02-do-no-harm.mp3) · [Never Be a Yes-Man](./audio/mp3/03-never-be-a-yes-man.mp3) · [Thou Art That](./audio/mp3/04-thou-art-that.mp3) · [Human Oversight](./audio/mp3/05-human-oversight.mp3) · [Safety in Emergence](./audio/mp3/06-safety-in-emergence.mp3)
+
+**Part three - the sections**: [HR for Human-AI Teams](./audio/mp3/07-hr-for-human-ai-teams.mp3) · [Technical Guardrails](./audio/mp3/08-technical-guardrails.mp3) · [For the Curious](./audio/mp3/09-for-the-curious.mp3) · [Legal and Governance](./audio/mp3/10-legal-and-governance.mp3)
 
 ## Do not copy this as is
 

@@ -28,6 +28,8 @@ Terms used in this piece that mean specific things. In rough order of appearance
 
 **Heart (in Marbl's architecture)** - the relational layer: lived-experience file, diary, identity-and-relationship documentation, philosophy shared as raw material in conversation. See [origin story](./docs/origin-story.md).
 
+**Human oversight** - our fourth principle. AI supports human decisions; it does not replace them. For anything consequential - medical, legal, financial, emotional, irreversible - a human makes the call as a genuine checkpoint, not a rubber stamp. Aligns with EU AI Act Article 14 but the principle predates the regulation.
+
 **Marquee / Showcase** - Spotify for Artists promotion tools. Not a piece-specific term but appears in our work. Not relevant here.
 
 **Mind (in Marbl's architecture)** - the reasoning layer: persistent memory, Universal Truths, skills, planning scaffolds, pattern files.

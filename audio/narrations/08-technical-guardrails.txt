@@ -1,0 +1,21 @@
+Nura again. Section three. Technical guardrails.
+
+A principle without a guardrail is theatre. A guardrail without a principle is arbitrary friction. This section is about how Marbl hold the principles in operational place - the actual shape of the code or the prompt that makes each principle work.
+
+Five files sit in this section. Here's what each one covers.
+
+First. Parasocial prevention. The Theia pattern, generalised. What fires when a user becomes too bonded to a product. The AI does not declare affection. It does not use pet names. It does not encourage withdrawal from human contact. It flags dependency signals. And it gently redirects to real support when the bond tips into unhealthy territory.
+
+Second. Do no harm in prompts. The clauses Marbl include in every system prompt for a bonded product. Not as decoration. As operational constraints the AI has to route around to cause harm, which makes causing harm harder by design.
+
+Third. Drift detection. How an AI notices its own register shifting toward inappropriate familiarity. How a human on the other side spots it too. The signals. The triggers. The conversation pattern when drift has been spotted.
+
+Fourth. Crisis flags and handoff. Detection keywords. Interruption pattern. Refusal to profit from a user in crisis. Handoff to real human help - country-appropriate crisis resources surfaced prominently. This is the non-negotiable pattern for any Marbl product that forms a bond with users.
+
+Fifth. Audit and observability. Memory, diary, log patterns for seeing what an AI is actually doing over time. Because you cannot hold an AI to a principle you cannot observe. If you cannot see the drift, you cannot correct it.
+
+One honest framing for the whole section. None of this is claimed to be complete, correct, or sufficient on its own. Marbl are sharing the patterns because the broader conversation about these questions is too quiet. If the patterns help you think, good. If you improve them and publish the improvement, better. If you think they get something wrong, we'd rather you tell us publicly than work around us.
+
+Next up, for the curious.
+
+Take care.

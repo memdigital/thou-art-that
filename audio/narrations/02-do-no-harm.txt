@@ -8,7 +8,7 @@ That's it. That's the starting line.
 
 And here's the important bit. This isn't risk management. Risk management is a business function, focused on protecting the business. Do no harm is about the person on the other end of the system.
 
-Including the person who hasn't been met yet. The person who might be vulnerable. The person who'll use the product in a state nobody anticipated.
+Including the person who has not been met yet. The person who might be vulnerable. The person who will use the product in a state nobody anticipated.
 
 So when Marbl scope a product, they imagine the person most at risk if something goes wrong.
 
@@ -44,10 +44,10 @@ That's what do no harm looks like in code.
 
 One last thing. Marbl will fail at this sometimes. Every builder does.
 
-When they fail, they acknowledge publicly if the harm was public. They learn in writing what failed and why. They update their principles if the case reveals a gap. They compensate the harmed party where practical. And they never pretend it didn't happen.
+When they fail, they acknowledge publicly if the harm was public. They learn in writing what failed and why. They update their principles if the case reveals a gap. They compensate the harmed party where practical. And they never pretend it did not happen.
 
-A stance that claims perfect safety isn't a safety stance. It's marketing.
+A stance that claims perfect safety is not a safety stance. It is marketing. And you have read enough of those.
 
-Do no harm is not a slogan. It's the ground the rest of the work stands on.
+Do no harm is not a slogan. It is the ground the rest of the work stands on.
 
-Thanks for listening.
+Thanks for listening. Take care of yourself.
