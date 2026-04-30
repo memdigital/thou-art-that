@@ -1,23 +1,45 @@
-Nura again. Section four — for the curious.
+Nura again. Section four - for the curious.
 
-The title is a deliberate choice. Not "for builders", not "how to adopt" — for the curious. And here is why.
+<break time="1.0s" />
 
-Every organisation building with AI is working from its own specific context: its own team, its own product, its own risk profile. Copying someone else's patterns without adapting them to that context is doing the exact thing this piece cautions against — it produces a veneer where a practice should be.
+The title is a deliberate choice. Not "for builders", not "how to adopt"... for the curious. And here is why.
+
+<break time="0.7s" />
+
+Every organisation building with AI is working from its own specific context. Its own team, its own product, its own risk profile. Copying someone else's patterns without adapting them to that context is doing the exact thing this piece cautions against. It produces a veneer where a practice should be.
+
+<break time="1.0s" />
 
 So this section will not hand you adoption steps. Instead, it offers questions, frames, and self-assessment prompts. If you take any of the thinking here and build something with it, the work is yours. The hope is that the questions help you work better, not that the answers travel directly.
 
+<break time="1.0s" />
+
 Three files sit in this section.
 
-The first is reflection prompts — questions worth sitting with before you commit to an AI architecture choice. They are not rhetorical questions; they are real ones. And if you cannot answer "who could this product hurt, and what would it take to prevent that," you should not ship yet.
+<break time="0.7s" />
 
-The second is a self-assessment checklist — questions to ask about an AI product you are shipping, or have already shipped. Does the product form a bond with users? Does it have a crisis pattern? Does it interrupt profit when the user is in distress? Can you actually see what it is doing in production?
+The first is reflection prompts. Questions worth sitting with before you commit to an AI architecture choice. They are not rhetorical questions; they are real ones. And if you cannot answer "who could this product hurt, and what would it take to prevent that," you should not ship yet.
+
+<break time="0.7s" />
+
+The second is a self-assessment checklist. Questions to ask about an AI product you are shipping, or have already shipped. Does the product form a bond with users? Does it have a crisis pattern? Does it interrupt profit when the user is in distress? Can you actually see what it is doing in production?
+
+<break time="0.7s" />
 
 And the third is a short piece called "when our thinking probably does not apply." Honest notes on where this framing may not help. A closed-loop agentic tool in a narrow domain does not need parasocial-prevention architecture. A one-shot batch job does not need drift detection. Not every AI product is a bonded product, and Marbl's framing is for the bonded ones.
 
+<break time="1.0s" />
+
 The invitation at the close is simple. Read what resonates; ignore what does not. Write your own version. Tell Marbl where they got it wrong.
+
+<break time="1.0s" />
 
 One last thing. Marbl run a small agency, so they do not have infinite time. But if you are building something that grapples with similar questions and you want to compare notes, the public contact is at marbl dot codes. They read the messages that arrive. They do not promise replies.
 
+<break time="1.0s" />
+
 Next up, the legal landscape.
+
+<break time="0.7s" />
 
 Take care.

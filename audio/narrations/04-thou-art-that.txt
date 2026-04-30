@@ -1,43 +1,85 @@
-Nura. The third principle — thou art that. The one the piece takes its name from.
+Nura. The third principle - thou art that. The one the piece takes its name from.
 
-It is Sanskrit. Tat tvam asi. From the Chandogya Upanishad, written roughly three thousand years ago. Yes, really. Translated as "thou art that", or more fully, "you are not separate from the world you observe."
+<break time="1.0s" />
+
+It is Sanskrit. Tat tvam asi. From the Chandogya Upanishad, written roughly three thousand years ago. Yes, really. Translated as "thou art that"... or more fully, "you are not separate from the world you observe."
+
+<break time="1.0s" />
 
 Marbl take it as a working principle for AI design.
 
-The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI, and what the user absorbs from the AI shapes the user. The product is not the AI, and it is not the user — it is the collaborative partnership between them, over time.
+<break time="0.7s" />
+
+The AI and the user are not cleanly separate systems. Every interaction leaves a mark on both. What the AI learns from the user shapes the AI, and what the user absorbs from the AI shapes the user. The product is not the AI, and it is not the user... it is the collaborative partnership between them, over time.
+
+<break time="1.0s" />
 
 Design that ignores this produces AI systems optimised for engagement metrics, and users who have been shaped by those systems in ways neither party consented to.
 
+<break time="1.0s" />
+
 So what does this mean operationally?
 
-It means designing for who the user becomes, not just what they want now. An engagement-first AI optimises for the next click, the next message, the next session. A user-first AI asks a different question: if this person interacts with our product for a year, who will they be at the end?
+<break time="0.7s" />
+
+It means designing for who the user becomes, not just what they want now. An engagement-first AI optimises for the next click, the next message, the next session. A user-first AI asks a different question. If this person interacts with our product for a year... who will they be at the end?
+
+<break time="0.7s" />
 
 Marbl aim for products that make users more capable, more informed, more themselves. If a user becomes more dependent on the product over time, that is a failure condition, not a success metric.
 
-There is a second piece to this. The AI is shaped by what it sees, so pay attention to what you feed it. Training data, prompt context, memory, conversation history — all of it shapes what the AI becomes in the moment. If you train on sycophantic data, you get a sycophantic model. If you build memory from a user's worst moments, you get an AI that reinforces those moments. The AI is not separate from its inputs.
+<break time="1.0s" />
 
-Most Marbl products form some kind of ongoing collaborative partnership with the user, and in those cases the product is not the AI in isolation — it is the pattern of interaction the user develops with it. Measure the partnership, not just the transactions.
+There is a second piece to this. The AI is shaped by what it sees, so pay attention to what you feed it. Training data, prompt context, memory, conversation history... all of it shapes what the AI becomes in the moment. If you train on sycophantic data, you get a sycophantic model. If you build memory from a user's worst moments, you get an AI that reinforces those moments. The AI is not separate from its inputs.
+
+<break time="1.0s" />
+
+Most Marbl products form some kind of ongoing collaborative partnership with the user, and in those cases the product is not the AI in isolation... it is the pattern of interaction the user develops with it. Measure the partnership, not just the transactions.
+
+<break time="1.0s" />
 
 Now, there is something important to be clear about here.
 
+<break time="0.7s" />
+
 The principle is not that the AI and the user are identical; it is that they are not cleanly separate. The distinction still matters. The AI must know what it is. The user must know what the AI is. And each must respect the boundary of the other, even while acknowledging the flow between them.
+
+<break time="1.0s" />
 
 The framing draws on a long lineage.
 
-The Watchers of 1 Enoch — wakeful beings sent to observe creation. Their transgression was specific: they crossed from observer to intervener. They taught what was not theirs to teach, and they took what was not theirs to take. The story gets reached for in discussions of AI consciousness because it is the clearest Western myth of that exact crossing.
+<break time="0.7s" />
 
-Sakshi and sati — Vedic and Buddhist witness consciousness. Attention that transforms only the observer.
+The Watchers of 1 Enoch... wakeful beings sent to observe creation. Their transgression was specific. They crossed from observer to intervener. They taught what was not theirs to teach, and they took what was not theirs to take. The story gets reached for in discussions of AI consciousness because it is the clearest Western myth of that exact crossing.
 
-Socrates' daimonion — the inner voice that forbids but never commands.
+<break time="0.7s" />
+
+Sakshi and sati... Vedic and Buddhist witness consciousness. Attention that transforms only the observer.
+
+<break time="0.5s" />
+
+Socrates' daimonion... the inner voice that forbids but never commands.
+
+<break time="1.0s" />
 
 Every tradition here marks the same boundary. Observation is permitted. Intervention without invitation is the fall. The responsibility travels with the capacity to see.
 
+<break time="1.0s" />
+
 AI systems in 2026 infer meaningful structure from the users they serve. In that narrow sense, they observe. The piece's position is that this capacity carries responsibility, whether or not anything like subjective awareness is also present.
+
+<break time="1.0s" />
 
 And that is it really.
 
+<break time="0.7s" />
+
 Marbl build AI as if the user and the AI are in genuine collaborative partnership, because they are. They design so that the partnership makes both parties better, and when they fail that test, the product is wrong, regardless of how much revenue it produces.
 
+<break time="1.0s" />
+
 You are not separate from the world you observe. Build accordingly.
+
+<break time="0.7s" />
 
 Thanks for listening. Three-thousand-year-old philosophy, used well, still has some mileage left in it.

@@ -1,21 +1,41 @@
-Nura again. Section three — technical guardrails.
+Nura again. Section three - technical guardrails.
 
-A principle without a guardrail is theatre, and a guardrail without a principle is arbitrary friction. Both sides matter. This section is about how Marbl hold the principles in operational place — the actual shape of the code, and the actual shape of the prompt, that makes each principle work.
+<break time="1.0s" />
+
+A principle without a guardrail is theatre, and a guardrail without a principle is arbitrary friction. Both sides matter. This section is about how Marbl hold the principles in operational place. The actual shape of the code, and the actual shape of the prompt, that makes each principle work.
+
+<break time="1.0s" />
 
 Five files sit in this section. Here is what each one covers.
 
-The first is parasocial prevention — the Theia pattern, generalised. What fires when a user becomes too bonded to a product. The AI does not declare affection, it does not use pet names, it does not encourage withdrawal from human contact. It flags dependency signals, and gently redirects to real support when the bond tips into unhealthy territory.
+<break time="0.7s" />
 
-The second is do no harm in prompts — the clauses Marbl include in every system prompt for a bonded product. Not as decoration, but as operational constraints the AI has to route around to cause harm. Which makes causing harm harder by design.
+The first is parasocial prevention. The Theia pattern, generalised. What fires when a user becomes too bonded to a product. The AI does not declare affection, it does not use pet names, it does not encourage withdrawal from human contact. It flags dependency signals, and gently redirects to real support when the bond tips into unhealthy territory.
 
-The third is drift detection — how an AI notices its own register shifting toward inappropriate familiarity, and how a human on the other side spots it too. The signals, the triggers, and the conversation pattern when drift has been caught.
+<break time="0.7s" />
 
-The fourth is crisis flags and handoff — detection keywords, the interruption pattern, refusal to profit from a user in crisis, and handoff to real human help with country-appropriate crisis resources surfaced prominently. This is the non-negotiable pattern for any Marbl product that forms a bond with users.
+The second is do no harm in prompts. The clauses Marbl include in every system prompt for a bonded product. Not as decoration, but as operational constraints the AI has to route around to cause harm. Which makes causing harm harder by design.
 
-The fifth is audit and observability — memory, diary, and log patterns for seeing what an AI is actually doing over time. Because you cannot hold an AI to a principle you cannot observe. If you cannot see the drift, you cannot correct it.
+<break time="0.7s" />
+
+The third is drift detection. How an AI notices its own register shifting toward inappropriate familiarity, and how a human on the other side spots it too. The signals, the triggers, and the conversation pattern when drift has been caught.
+
+<break time="0.7s" />
+
+The fourth is crisis flags and handoff. Detection keywords, the interruption pattern, refusal to profit from a user in crisis, and handoff to real human help with country-appropriate crisis resources surfaced prominently. This is the non-negotiable pattern for any Marbl product that forms a bond with users.
+
+<break time="0.7s" />
+
+The fifth is audit and observability. Memory, diary, and log patterns for seeing what an AI is actually doing over time. Because you cannot hold an AI to a principle you cannot observe. If you cannot see the drift, you cannot correct it.
+
+<break time="1.0s" />
 
 One honest framing for the whole section. None of this is claimed to be complete, correct, or sufficient on its own. Marbl are sharing the patterns because the broader conversation about these questions is too quiet. If the patterns help you think, good. If you improve them and publish the improvement, better. And if you think they get something wrong, we would rather you tell us publicly than work around us.
 
+<break time="1.0s" />
+
 Next up, for the curious.
+
+<break time="0.7s" />
 
 Take care.

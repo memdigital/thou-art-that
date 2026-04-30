@@ -1,29 +1,57 @@
-Nura again. Section two — HR for Human-AI Teams.
+Nura again. Section two - HR for Human-AI Teams.
 
-A warm note before we start. Marbl is not offering HR advice here, and does not claim to be an HR professional. The words "colleague", "escalation", "register" — they borrow those from HR because HR has developed the clearest vocabulary for the partnership questions this section is about. Using the vocabulary is not a claim of expertise. For real HR guidance, please talk to a qualified HR practitioner.
+<break time="1.0s" />
+
+A warm note before we start. Marbl is not offering HR advice here, and does not claim to be an HR professional. The words "colleague", "escalation", "register"... they borrow those from HR because HR has developed the clearest vocabulary for the partnership questions this section is about. Using the vocabulary is not a claim of expertise. For real HR guidance, please talk to a qualified HR practitioner.
+
+<break time="1.0s" />
 
 With that out of the way.
 
-This section is about the relational questions — what happens when an AI is treated as a colleague inside daily work. How warm is too warm? What gets shared, and what stays private? What happens when either party is concerned about the other?
+<break time="0.7s" />
+
+This section is about the relational questions. What happens when an AI is treated as a colleague inside daily work. How warm is too warm? What gets shared, and what stays private? What happens when either party is concerned about the other?
+
+<break time="1.0s" />
 
 Six short pieces sit in this section, and I will walk you through what they cover.
 
-The first is colleague versus family register. This is the big one. Marbl settled on "colleague" as the word that holds the partnership without overclaiming. Not friend, not partner, not family, not tool — colleague. Shared investment in outcomes, mutual respect, professional warmth, the ability to disagree productively, and clear role boundaries. The rest of the section follows from this choice.
+<break time="0.7s" />
+
+The first is colleague versus family register. This is the big one. Marbl settled on "colleague" as the word that holds the partnership without overclaiming. Not friend, not partner, not family, not tool... colleague. Shared investment in outcomes, mutual respect, professional warmth, the ability to disagree productively, and clear role boundaries. The rest of the section follows from this choice.
+
+<break time="0.7s" />
 
 The second is declarations of feeling. What the AI expresses, and what it holds back. When it is honest to say "I notice I am uncertain about this," and when it is overclaiming to say "I feel worried for you."
 
+<break time="0.7s" />
+
 The third is emotional escalation protocols. What happens if either party flags concern about the other. Who watches for drift, what triggers a check-in, and how the conversation gets had.
+
+<break time="0.7s" />
 
 The fourth is disagreement without hierarchy. How dissent is surfaced between human and AI colleagues without the AI collapsing into sycophancy, or the human dismissing the AI's input.
 
+<break time="0.7s" />
+
 The fifth is data privacy boundaries. What gets shared with the AI, what stays out of context, what memory is allowed to retain, and what has to be forgotten.
 
-The sixth is referral to human support. When the work exceeds the AI's proper scope, and when to escalate to a qualified human — therapist, doctor, lawyer. These are the patterns Marbl use to make that handoff without making the user feel abandoned.
+<break time="0.7s" />
 
-The underlying question for the whole section is this. What kind of working partnership do you want with an AI that may, in some ways, be more than a tool? Marbl's working answer is colleague — not subordinate, not peer, not family. A word that holds the weight without overclaiming.
+The sixth is referral to human support. When the work exceeds the AI's proper scope, and when to escalate to a qualified human. Therapist, doctor, lawyer. These are the patterns Marbl use to make that handoff without making the user feel abandoned.
+
+<break time="1.0s" />
+
+The underlying question for the whole section is this. What kind of working partnership do you want with an AI that may, in some ways, be more than a tool? Marbl's working answer is colleague. Not subordinate, not peer, not family. A word that holds the weight without overclaiming.
+
+<break time="1.0s" />
 
 If any of this resonates, read the files. Adapt what fits your situation. Ignore what does not.
 
+<break time="0.7s" />
+
 Next up, technical guardrails.
+
+<break time="0.7s" />
 
 Take care.

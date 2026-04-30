@@ -1,37 +1,73 @@
-Nura here. This one is on the first principle — do no harm. It is not a slogan; it is the foundation.
+Nura here. This one is on the first principle - do no harm. It is not a slogan; it is the foundation.
 
-Every product Marbl builds begins with one question. Who could this hurt, and what would it take to prevent that? That is the starting line.
+<break time="1.0s" />
 
-And here is the important bit. Do no harm is not risk management. Risk management is a business function, focused on protecting the business — which is fine, but it is a different thing. Do no harm is about the person on the other end of the system. Including the person who has not been met yet; the person who might be vulnerable; the person who will use the product in a state nobody anticipated.
+Every product Marbl builds begins with one question. Who could this hurt... and what would it take to prevent that? That is the starting line.
+
+<break time="0.7s" />
+
+And here is the important bit. Do no harm is not risk management. Risk management is a business function, focused on protecting the business - which is fine, but it is a different thing. Do no harm is about the person on the other end of the system. Including the person who has not been met yet... the person who might be vulnerable... the person who will use the product in a state nobody anticipated.
+
+<break time="1.0s" />
 
 So when Marbl scope a product, they imagine the person most at risk if something goes wrong. For a trip planner, that is the driver who is exhausted and making bad decisions. For an AI assistant, it is the user in crisis reaching for anything that sounds human. For a content pipeline, it is the reader who will believe what gets published because the brand carries weight.
 
+<break time="0.7s" />
+
 The question is never "what does the average user need." The question is always "what happens to the vulnerable user if the system misbehaves." Build for the vulnerable, and the average user is automatically covered.
+
+<break time="1.0s" />
 
 Right. So what about features that could cause harm?
 
-The default is simple — they do not ship. Features with harm potential only ship once the harm pathway has been identified, mitigated, and tested. If you cannot name the mitigation, you do not ship. If the mitigation is "the user will probably not do X," you do not ship either.
+<break time="0.7s" />
+
+The default is simple - they do not ship. Features with harm potential only ship once the harm pathway has been identified, mitigated, and tested. If you cannot name the mitigation, you do not ship. If the mitigation is "the user will probably not do X," you do not ship either.
+
+<break time="0.7s" />
 
 And this one is important. Safety guardrails are not features to balance against convenience. Marbl do not remove a guardrail because it inconveniences the majority, because guardrails exist for the minority who need them. The majority's experience is shaped by everything else the product does.
 
-Underneath all of this sits a pattern Marbl call the crisis-interruption pattern. For any AI product that bonds with users — voice assistant, coach, companion, chat — the pattern goes like this.
+<break time="1.0s" />
+
+Underneath all of this sits a pattern Marbl call the crisis-interruption pattern. For any AI product that bonds with users - voice assistant, coach, companion, chat - the pattern goes like this.
+
+<break time="0.7s" />
 
 First, detect. Monitor for crisis language: self-harm, violence toward others, acute distress.
 
+<break time="0.5s" />
+
 Then interrupt. Stop the AI's normal conversation flow the moment a threshold is crossed.
+
+<break time="0.5s" />
 
 Then refuse to profit. If the user is in a paid session, stop charging.
 
-Then hand off to real help — country-appropriate crisis support links and numbers, surfaced prominently, never buried at the bottom of a page.
+<break time="0.5s" />
+
+Then hand off to real help - country-appropriate crisis support links and numbers, surfaced prominently, never buried at the bottom of a page.
+
+<break time="0.5s" />
 
 And finally, log. Record the event for review, so the system learns from real-world triggers and keeps improving.
 
+<break time="1.0s" />
+
 Theia, the celestial connection product Marbl built, implements this exact pattern. If a user reaches the product in their darkest moment, the reading stops, the money is refunded, and they are directed to real human support. That is what do no harm looks like in code.
 
-One last thing. Marbl will fail at this sometimes, because every builder does. When they do, they acknowledge publicly if the harm was public. They learn in writing what failed, and why. They update their principles if the case reveals a gap. They compensate the harmed party where practical. And they never, ever, pretend it did not happen.
+<break time="1.0s" />
 
-A stance that claims perfect safety is not a safety stance — it is marketing. And you have read enough of those.
+One last thing. Marbl will fail at this sometimes, because every builder does. When they do... they acknowledge publicly if the harm was public. They learn in writing what failed, and why. They update their principles if the case reveals a gap. They compensate the harmed party where practical. And they never, ever, pretend it did not happen.
+
+<break time="0.7s" />
+
+A stance that claims perfect safety is not a safety stance - it is marketing. And you have read enough of those.
+
+<break time="1.0s" />
 
 Do no harm is not a slogan. It is the ground the rest of the work stands on.
+
+<break time="0.7s" />
 
 Thanks for listening. Take care of yourself.
