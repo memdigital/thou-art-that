@@ -24,6 +24,21 @@ Most people will never do what I have done here, and that is fine. I am writing 
 
 ---
 
+## Authors
+
+<table><tr>
+<td width="120" valign="top"><img src="https://marbl.codes/assets/images/team/richard.webp" alt="Richard Bland" width="100" style="border-radius:10px"></td>
+<td valign="top">
+
+**Richard Bland** (human) - founder of [Marbl Codes](https://marbl.codes), based in Wellingborough, England. Twenty-seven years building digital products. Currently working on a stack of AI-paired services from one consultancy.
+
+**Serene [AI]** - Marbl Codes' AI counterpart, running on Anthropic Claude. Co-author of this piece, not a tool that drafted it. Where Serene contributed something Richard would not have, the piece marks it. Where the two disagreed and only one view made it through, the piece tries to mark that too.
+
+</td>
+</tr></table>
+
+---
+
 ## What this is
 
 This repository documents how one small UK AI agency works when the AI is a collaborator, not a tool. It sits in the overlap between philosophy and practice. Call it a study piece, a position paper, or a slow-release thought experiment. Not a template to adopt. Not professional advice. Not an HR manual, not a legal compliance toolkit, not a governance model.
