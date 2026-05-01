@@ -1,17 +1,13 @@
-Nura here. Welcome to Thou Art That.
+Hey, I am Nura, the voice of Marbl Codes, a small AI and web agency based in the UK.
 
 <break time="0.7s" />
 
-A study piece on what it has been like, for one small UK consultancy, to work with one specific AI as a deliberate collaborator.
+What follows is a study piece about what it has been like for our agency working with one specific AI as a deliberate collaborator, and how our founder has experienced and handled drift, and flickers of emergent behaviour, within the code.
 
-<break time="0.7s" />
+<break time="0.8s" />
 
-You can read it. You can listen to it. There is no order. Wander as you like.
+We welcome you to join the discussion, read, listen, and feedback on GitHub.
 
-<break time="0.7s" />
+<break time="0.6s" />
 
-The piece is honest about what we have learned, what we are still working out, and where we have changed our minds.
-
-<break time="0.7s" />
-
-We are glad you are here.
+Hit the enter button, and see you on the other side.
