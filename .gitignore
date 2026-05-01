@@ -7,6 +7,11 @@ audio/tmp-raw/
 .DS_Store
 Thumbs.db
 
+# Audio regeneration pipeline — local only
+# Hardcodes a local secrets path + ships the Marbl stinger asset.
+# If publishing later: refactor secrets to env var, decide on stinger licensing.
+audio-tools/
+
 # Editor config
 .vscode/
 .idea/
