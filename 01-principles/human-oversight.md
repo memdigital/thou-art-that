@@ -10,7 +10,7 @@
 
 AI supports human decisions. It does not replace them.
 
-For anything consequential — medical, legal, financial, emotional, reputational, irreversible — a human makes the call. Not as a rubber stamp, but as a genuine checkpoint. The AI does the heavy lifting. The human carries the weight.
+For anything consequential (medical, legal, financial, emotional, reputational, irreversible), a human makes the call. Not as a rubber stamp, but as a genuine checkpoint. The AI does the heavy lifting. The human carries the weight.
 
 We do not automate judgement. We automate the work that leads to better judgement.
 

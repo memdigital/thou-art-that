@@ -1,4 +1,4 @@
-# TAT background music — ElevenLabs Music API prompt
+# TAT background music: ElevenLabs Music API prompt
 
 For use against `luma-elevenlabs/v1/music`. Worker forces `force_instrumental: true`.
 
@@ -7,7 +7,7 @@ For use against `luma-elevenlabs/v1/music`. Worker forces `force_instrumental: t
 ```
 A slow, contemplative lo-fi piece. 65 bpm. Warm Rhodes piano with soft
 analog pad underneath, vinyl texture audible but understated. Minimal
-melodic movement — long held notes, gentle harmonic shifts every eight
+melodic movement, long held notes, gentle harmonic shifts every eight
 bars. No drums or percussion. The mood is meditative warmth, like a
 candle in a wood-panelled room. Suitable to loop quietly under
 philosophical narration. Instrumental.
@@ -15,12 +15,12 @@ philosophical narration. Instrumental.
 
 ## Why these choices
 
-- **65 bpm** — slow enough to underpin contemplative narration without competing for attention
-- **Rhodes + pad** — warm, no plucky/bright tones that fight Nura's voice
-- **No drums** — drumless lo-fi is rarer but cleaner under spoken word; brushed drums optional v2 if v1 feels lifeless
-- **Vinyl texture understated** — atmosphere, not pastiche
-- **8-bar harmonic shifts** — gives shape without distracting
-- **"Wood-panelled room" cue** — pulls the ElevenLabs prior toward intimate, not study-cafe
+- **65 bpm**: slow enough to underpin contemplative narration without competing for attention
+- **Rhodes + pad**: warm, no plucky/bright tones that fight Nura's voice
+- **No drums**: drumless lo-fi is rarer but cleaner under spoken word; brushed drums optional v2 if v1 feels lifeless
+- **Vinyl texture understated**: atmosphere, not pastiche
+- **8-bar harmonic shifts**: gives shape without distracting
+- **"Wood-panelled room" cue**: pulls the ElevenLabs prior toward intimate, not study-cafe
 
 ## Mix discipline (post-generation)
 
